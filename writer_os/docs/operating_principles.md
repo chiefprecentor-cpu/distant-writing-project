@@ -44,7 +44,7 @@ Shared tone should normally come from shared creative commitments rather than by
 
 ## Candidate Exploration
 
-Candidate sets preserve meaningful alternatives around a creative question. They may contain human ideas, agent generations, research prompts, staging directions, or selected Round Table outcomes. The system should support choosing one, assembling several, retaining all, rejecting all, or reframing the question.
+Candidate sets preserve meaningful alternatives around a creative question. They may contain human ideas, agent generations, research prompts, or staging directions. The system should support choosing one, assembling several, retaining all, rejecting all, or reframing the question.
 
 Counterfactual or hypothetical exploration can examine narrative logic and consequences without becoming an actual branch or worldline. Candidate curation is an optional milestone or recovery activity, not a continuous background process.
 
@@ -53,8 +53,6 @@ Counterfactual or hypothetical exploration can examine narrative logic and conse
 The visible transcript, result-producing agent actions, file changes, Git history, human selections, and reflective memos may all contribute to dissertation evidence. Their lengths and contents need not match: Markdown records working artefacts, while transcripts and action records preserve interaction and provenance.
 
 Raw evidence and interpretation remain separate. A researcher-facing agent may analyse a snapshot after a writing episode, but its interpretation does not automatically enter the writer's context or alter the story. Evidence of file access does not prove what a model noticed, understood, or relied on.
-
-Round Table remains a sibling prewriting mechanism. Sessions normally live in `project/`; sessions involving private material remain in the upper `Dissertation` environment. Raw discussion and compressed reading versions remain process artefacts until the human selects an outcome for further creative work.
 
 ## Language and Style
 

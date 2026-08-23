@@ -42,7 +42,6 @@ The current dissertation story is being selectively populated here. Existing mat
 - No requirement that the author maintain registries or fill forms before writing.
 - No automatic promotion from generated material to story truth.
 - No complete transcript or research-analysis store inside Writer OS.
-- No automatic Round Table ingestion.
 - No front end or asset-production pipeline.
 - No runtime LLM narration or direct player-to-LLM conversation.
 - No Ren'Py export, labels, menus, variables, or bridge implementation.

@@ -41,7 +41,7 @@ Create directories and indexes only when real content requires them. Do not recr
 - Load the current target, directly relevant human-confirmed commitments, and the minimum local context needed for the task. Queue entries are pointers only: they do not authorise implementation and are not default context until the task moves to them.
 - Within an ongoing conversation, read only new or changed material unless the task requires a broader check.
 - Load adjacent worldline summaries only for a concrete divergence, convergence, cross-line echo, comparison, or special cross-line scene. Read full adjacent-line prose only when exact comparison is necessary.
-- Do not load inactive candidates, unrelated worldlines, rejected material, full transcripts, research analysis, historical Round Table runs, imported prior work, or Ren'Py planning merely because they may be useful.
+- Do not load inactive candidates, unrelated worldlines, rejected material, full transcripts, research analysis, or Ren'Py planning merely because they may be useful.
 - Private material outside this repository requires explicit task relevance and permission.
 
 Update `current.md` only after a meaningful change of focus or confirmed state. Do not update or repeat it after every small action.
@@ -52,7 +52,7 @@ Update `current.md` only after a meaningful change of focus or confirmed state. 
 - Give each mature plot block summary coverage. If its primary record is already concise, do not create a duplicate summary file.
 - Summarise a node only when it has independent narrative importance; do not summarise every minor camera, environment, or technical cut.
 - Refresh a worldline state summary when the line forms, changes materially, or reaches a meaningful checkpoint.
-- A persistent summary must identify its source scope. If the source changes materially, update the view or state clearly that it may be stale.
+- A persistent summary must identify its source scope. A summary stored in `agent_views/` must record its source locations as paths relative to the repository root, for example `writer_os/creative_work/...`, never as absolute filesystem paths. If a clickable Markdown link is also used, its target must resolve relative to the summary file. If the source changes materially, update the view or state clearly that it may be stale.
 - Return to primary text for exact wording, voice, rhythm, and fine-grained emotional judgment.
 - Prefer Markdown links and ordinary search. Create a central index only after scale, stable IDs, repeated lookup failure, or later bridge work demonstrates a real need.
 - Indexes list objects and links; they do not duplicate full prose or silently add facts.
@@ -79,14 +79,15 @@ Update `current.md` only after a meaningful change of focus or confirmed state. 
 - Treat durable tone, narrative voice, character language, and local aesthetic commitments as creative story material, not as agent summaries.
 - Protect specified dialogue, emotional aims, character relationships, and deliberately unusual expression during language cleanup.
 - Do not equate removing generic AI phrasing with flattening the work's voice.
+- Write prose or script material placed in `creative_work/drafts/` directly in English unless the author explicitly requests a Chinese reference version or bilingual work. Chinese input alone does not imply that the draft should be written in Chinese.
+- Translate routine Chinese instructions into natural English without requiring a translation discussion. When a Chinese expression permits materially different English readings that could affect meaning, voice, characterisation, imagery, cultural resonance, or a conceptual or technical claim, identify the ambiguity and discuss the translation approach before treating one rendering as final, even if the author did not flag the issue.
 - English is the current target text; Chinese may assist author review but must not hide defects in the English; Japanese remains a later cultural and localisation layer requiring stronger human validation.
 - Temporary language, voice, and dataprint checks do not need to be saved unless they produce a durable human-confirmed rule.
 
-## Research, Round Table, and Ren'Py Boundaries
+## Research and Ren'Py Boundaries
 
 - Raw transcripts, tool or file actions, Git changes, and researcher interpretation remain outside Writer OS even when they are dissertation evidence.
 - Keep Writer OS self-contained. Do not record private or local source filenames, absolute paths, raw chat excerpts, personal-process notes, course provenance, or mappings from fictional characters and events to identifiable real people or incidents. Public, verifiable references may be retained when they support research or fact-checking.
 - Do not copy a full transcript into active story context. Transfer only material the human explicitly selects for continued creative work.
-- Round Table is a sibling prewriting mechanism. Do not ingest its raw or compressed record automatically.
 - A future Ren'Py bridge must use accurate drafts, confirmed presentation decisions, and confirmed story state rather than treating summaries as executable truth.
 - Do not create a front end, asset pipeline, Ren'Py mapping, or bridge registry in this version.

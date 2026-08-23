@@ -98,16 +98,15 @@ Create this area only when material that was once active is deliberately retired
 
 For ordinary writing, prefer the current work, relevant shared commitments, and the current worldline. Load adjacent worldlines only for a concrete comparison, divergence, convergence, cross-line echo, or other task that requires them.
 
-Inactive candidates, rejected material, full transcripts, research analysis, historical Round Table runs, imported prior work, and future Ren'Py planning are not default writing context.
+Inactive candidates, rejected material, full transcripts, research analysis, imported prior work, and future Ren'Py planning are not default writing context.
 
-Raw transcripts and result-producing agent actions may be dissertation evidence, but that evidence remains outside Writer OS. Round Table also remains a sibling subsystem. Content enters the active story only after explicit human selection.
+Raw transcripts and result-producing agent actions may be dissertation evidence, but that evidence remains outside Writer OS. Content enters the active story only after explicit human selection.
 
 ## Deferred Work
 
 - No Python automation, YAML, JSON, front matter, or fixed metadata schema.
 - No front end.
 - No Ren'Py bridge or export mapping.
-- No automatic Round Table ingestion.
 - No project-wide research-record structure.
 
 These may be reconsidered only after real writing exposes a concrete need.
