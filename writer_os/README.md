@@ -88,7 +88,7 @@ Use this area for deliberately retained candidate sets organised around a creati
 
 ### `agent_views/`
 
-This reserved directory is currently empty. Create a derived, rebuildable aid here only after repeated use demonstrates a concrete need. It must remain self-contained, point only to material that is already safe to include in Writer OS, and must not become a private-source navigation layer, provenance store, or second source of story truth.
+Create a derived, rebuildable aid here only after repeated use demonstrates a concrete need. It must remain self-contained, point only to material that is already safe to include in Writer OS, and must not become a private-source navigation layer, provenance store, or second source of story truth. Paused-work navigation may live here when changing the single current focus would otherwise hide a still-relevant resume point.
 
 ### `archive/`
 

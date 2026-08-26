@@ -29,7 +29,7 @@ The current dissertation story is being selectively populated here. Existing fil
 - `candidates/` is inactive by default. Saving, adopting, implementing, loading, and assigning to a worldline are separate decisions.
 - A common route may be `candidates -> development -> story_state or drafts`, but it is not compulsory. Active material and confirmed commitments may enter their appropriate areas directly.
 - When a confirmed setting still needs literary or narrative development, keep the authoritative constraint in `story_state/` and develop how it enters plot, character, scene, or player experience in the relevant creative material. Link between them instead of maintaining competing primary copies.
-- `agent_views/` is reserved for rebuildable derived aids when a demonstrated repeated-use need appears. It is currently empty; do not use it for private-source navigation, provenance records, or a second source of story truth.
+- `agent_views/` is reserved for rebuildable derived aids when a demonstrated repeated-use need appears. Do not use it for private-source navigation, provenance records, or a second source of story truth.
 - `archive/` is for deliberately retired active material, not ordinary Git history or every unused generation.
 
 Create directories and indexes only when real content requires them. Do not recreate a full empty skeleton.
