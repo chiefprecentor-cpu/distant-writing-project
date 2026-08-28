@@ -16,6 +16,22 @@
 
 因此，本项目可以继承的是“框架怎样制造声音”“继承怎样保留疼痛”“整体经验怎样成为线性叙述”及“面对非同类者怎样承担关系”，而不是复制一套角色和剧情骨架。
 
+## Miltonic 前史候选：拒绝继承、成对晚诗与痛苦
+
+John Milton 此前没有进入本文件。当前可以把他保存为济慈 *Hyperion* 诗篇之前的一层候选前史，而不把原有标题扩张成一条已经确认的新正典链。
+
+济慈自己对 *Hyperion* 的放弃理由需要精确保存为 `Miltonic inversions`，而不是把他的原话改成 `Miltonic phrases`。他在 1819 年 9 月致 Reynolds 的信中写道：`I have given up Hyperion—there were too many Miltonic inversions in it`；同时代文本与编者仍可进一步指出诗中对 *Paradise Lost* 的语句、情境与史诗形式回声。原信坐标与文本见[济慈诗文书信历史版本](https://upload.wikimedia.org/wikipedia/commons/f/f4/The_complete_poetical_works_and_letters_of_John_Keats_%28IA_completepoetical00keat%29.pdf)及[多伦多大学 RPO 的 *Hyperion* 注释](https://rpo.library.utoronto.ca/content/hyperion)。这使 Milton—Keats 的关系不只是“继承影响”，还包含继承者发现前代语言正在替自己说话，因而必须中止、改写或另寻声音。
+
+Milton 的 *Paradise Regained* 与 *Samson Agonistes* 共同出版，现有研究长期把两者当作相互照明、竞争或互相否定的 companion poems。Paul Hammond 把它们放在王政复辟以后关于人民、自由与行动的共同问题中阅读；Eric B. Song 强调两部作品在身体经验、知识传递和过去—现在—未来之间的成对结构；Michael Bryson 则提出 *Samson Agonistes* 可以成为 *Paradise Regained* 肯定之后的 `but no`。这些是可比较的研究路线，不是已经统一的学界结论。见[Oxford Handbook 对 1671 poems 的历史语境](https://academic.oup.com/edited-volume/34332/chapter-abstract/291366026)、[Hammond 对两部晚诗交织问题的概述](https://academic.oup.com/book/2822/chapter-abstract/143383426)、[Song 的 paired reading](https://academic.oup.com/cornell-scholarship-online/book/13741/chapter/167359543)与[Bryson 的否定神学读法](https://onlinelibrary.wiley.com/doi/10.1111/j.1094-348X.2008.00181.x)。
+
+对本项目而言，*Samson Agonistes* 可以暂时提供一条“痛苦不能被胜利结果注销”的候选桥：失明、囚禁、受辱、重新形成行动确信与最终灾难性行动之间，并不存在只靠结局便能消除的伦理张力。这条痛苦线可以与济慈笔下被取代者和 Apollo 经由痛苦取得知识的结构，再与 Simmons 的继承、改造和残余经验发生连接；它目前只是文学化问题，不证明 Keats 或 Simmons 在这些具体位置直接采用 *Samson Agonistes*。
+
+作者确认这里想到的是《浪客剑心：追忆篇》（*Rurouni Kenshin: Trust & Betrayal*），不是一部独立剧场版。它最初是 1999 年四集 OVA；Aniplex 当前商品说明仍按 `4 OVA Episodes` 收录，见[官方页面](https://aniplexusa.com/rurounikenshin/)。作者记得的美丽画风与赛璐珞质感继续保留为视觉参照；现存《追忆篇》制作赛璐珞可以支持这一制作记忆，但整部作品的具体摄影与混合工艺仍待更可靠资料核实。
+
+当前感到相似的首先不是完整叙事骨架，而是“主人公受到所爱之人的背叛”怎样同时包含爱、敌对阵营、行动资格与不可逆伤害：*Samson Agonistes* 中 Samson 与 Dalila 的对峙，和《追忆篇》中剑心与雪代巴从复仇／监视走向真实感情及牺牲的结构，可以形成比较；两位女性的动机、回转和伦理位置并不相同，不能把 Tomoe 直接写成现代 Dalila。这仍是作者侧比较候选，不确认《追忆篇》有意互文 Milton。
+
+另一条较轻的人物入口是：何须怨在谈到 *Violet Evergarden* 第 7 集时，可能由失去妻女、写作停滞和书记协助联想到 Milton 的生平。这只属于人物的文学联想；没有证据证明 Oscar Webster 有意以 Milton 为原型。相关候选见[何须怨的关系认知与自我展示](男主角何须怨_关系认知照顾方式与幸福结构候选.md#经过筛选的自我展示)。
+
 ## 一、框架是一种叙述制度
 
 《坎特伯雷故事集》的框架不只是让多人轮流讲故事。道路制造共同方向和有限时间，人物的社会位置预先改变其声音怎样被听见，Host 的规则分配顺序、时长、评价和代价，抽签则在形式偶然中继续与既有等级发生作用。
@@ -109,6 +125,7 @@ Marszałski 对 *Hyperion Cantos* 的他者伦理读法可以与 Gräslund 的 e
 ## 来源与证据边界
 
 - 当前对 Chaucer 的细读只覆盖 General Prologue 及 Knight’s Tale 开始，不代表完成《坎特伯雷故事集》全书研究。
+- Miltonic 前史目前只确认济慈书信措辞、两部 1671 poems 的共同出版及若干相互竞争的研究路径；尚未完成 *Paradise Lost*、*Paradise Regained* 与 *Samson Agonistes* 的同版细读，不能把“痛苦线”当成已经论证完毕的文学史链条。
 - 当前以公共领域历史版本建立 Keats 原典坐标；正式逐字引用仍应核对现代权威版。
 - Zenger 与 Gräslund 的硕士论文提供有生产力的解释路线，不构成 Keats 或 Simmons 研究的最终共识。
 - Marszałski 的论文提供一种 Levinas 式他者伦理读法；它是解释框架，不证明 Simmons 的作者意图。
