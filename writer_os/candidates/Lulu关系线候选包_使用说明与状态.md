@@ -4,7 +4,7 @@
 
 这是一次作者选择保留的 prewriting 结果入口。它只导航当前可继续发展的人物、情节块和世界线候选。
 
-本文件与所链接文件均位于 `candidates/`，默认不加载、不采用、不分配世界线。文件内的“当前工作模型”只表示候选之间应保持的最新一致性，不等于内容已经进入 `story_state`，也不等于已经实施为正文。
+本文件主要导航 `candidates/` 中的未激活材料，同时指向已经形成的 opening draft 与 continuity checkpoint，便于候选避开既有连续性。只有实际位于 `candidates/` 的材料默认不加载、不采用、不分配世界线；链接到 draft 或 story state 不会把相邻候选一并激活。
 
 以后若某项候选被作者采用，应按其当时作用进入 `creative_work/development/`、`presentation/`、`story_state/` 或 `drafts/`，并链接回相关候选；不要把整套候选一次性提升为 canon。
 
@@ -12,7 +12,7 @@
 
 - [Lulu：人物与声线候选](Lulu_人物与声线候选.md)：人物局部核心、专业与兴趣、声线、主动性、跨线辨认边界。
 - [何须怨（男主角）：关系认知、照顾方式与幸福结构候选](男主角何须怨_关系认知照顾方式与幸福结构候选.md)：投射、交流迟滞、服务型关心、保护欲、时代燃料与平静生活。
-- [前期相识与邱园告白：情节块发展](../creative_work/development/前期相识与邱园告白_情节块候选.md)：相遇、maid café 拼桌、邱园主节点、告白与拒绝的玩家呈现。
+- [Opening 近定稿](../creative_work/drafts/开幕_流水冷开场_相撞与讲座.md)及其[连续性 checkpoint](../creative_work/story_state/开幕_相识至HydePark与终端硬切.md)：相遇、maid café 拼桌、邱园主节点、告白与拒绝及 Hyde Park 终端硬切。
 - [拒绝后伦敦：平静涟漪、家庭时间与地理选择情节块候选](拒绝后伦敦_平静涟漪家庭时间与地理选择情节块候选.md)：短暂再见、想家、家庭经济与英国／中国发展轴。
 - [Lulu、Interface 与何须怨：世界线关系及终局候选](Lulu_Interface与何须怨_世界线关系及终局候选.md)：玩家首见线、较早关系史分歧、地理与责任正交轴，以及 Interface 在场的反事实幸福线。
 
