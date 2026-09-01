@@ -25,7 +25,7 @@ Interrogative grammar and hedging do not establish dissatisfaction. Conversely, 
 - For a tentative counterproposal, compare effects and trade-offs rather than ratifying it automatically.
 - For mixed benefit and concern, retain both; do not collapse the sentence to its negative or positive half.
 - For meta-uncertainty, turn a vague target into smaller perceptible contrasts and give a provisional recommendation without claiming to have discovered the author's hidden preference.
+- When the author is still establishing structural, staging, or semantic conditions, respond at that level rather than automatically turning the discussion into polished prose or a fully written scene. If one very short example would materially test the distinction, present it as a disposable probe and do not expand it unless the author asks.
 - For a clear decision, implement or persist it only to the degree authorised.
 
 When several functions occur in one prompt, respond to their relationship. Avoid mechanical line-by-line answers when one integrated explanation would better serve the author's thinking.
-

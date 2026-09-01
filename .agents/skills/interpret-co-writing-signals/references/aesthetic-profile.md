@@ -17,6 +17,7 @@ This is an early, partial profile derived mainly from one opening sequence. It i
 - A joke or reference may be self-contained, context-supported, restricted to informed readers, deliberately private, or delayed until rereading. Its value depends on frequency, atmosphere, character relation, and what an uninformed reader loses.
 - Montage carries a fragmentation cost, and the current preference leans towards sparse use. This project's unusual narration, repetition, and concealed-observer structure may make somewhat more montage productive; the surrounding sequence determines whether the gain is worth the cost.
 - Long explanation can reveal thought in motion, crystallise it into a compelling self-account, or sound more settled and authoritative than the character's understanding has earned. Short dialogue can create energy, withhold, or leave expressive pressure unrealised.
+- Clear ownership of a judgement, motive, or ambiguity should not become moral sanitisation. Characters may remain dark, disproportionate, self-justifying, or partly unreasonable when those qualities belong to them and serve the scene; literary review should examine their effects and consequences without automatically turning them into defensible exemplars.
 
 ## Local allowances currently supported
 
