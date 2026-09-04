@@ -18,6 +18,7 @@ Make an initial integrated reading before loading specialist instructions. When 
 - [explore-subtext-and-distance](../explore-subtext-and-distance/SKILL.md) for interpretation, viewpoint, explanation timing, or ambiguity;
 - [workshop-dialogue-and-comedy](../workshop-dialogue-and-comedy/SKILL.md) for character language, conversational action, comedy, or reference openness;
 - [shape-vn-rhythm-and-montage](../shape-vn-rhythm-and-montage/SKILL.md) for scene rhythm, silence, repetition, montage, or continuity across cuts.
+- [rework-ai-shaped-fiction](../rework-ai-shaped-fiction/SKILL.md) when AI fingerprint or generated-feeling polish emerges across sentence patterns, information flow, character knowledge, or a familiar scene scaffold.
 
 Load only the specialist guidance that materially changes the review. If different sentence- or clause-level signals in the user's prompt affect what the review should explain, compare, preserve, or change, consult [interpret-co-writing-signals](../interpret-co-writing-signals/SKILL.md). A simple local uncertainty with an otherwise clear request can be handled directly.
 

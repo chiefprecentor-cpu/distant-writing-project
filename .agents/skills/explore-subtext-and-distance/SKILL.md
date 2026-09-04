@@ -1,6 +1,6 @@
 ---
 name: explore-subtext-and-distance
-description: Explore subtext, explanation timing, narrative distance, viewpoint ownership, and intentional ambiguity in fiction or visual-novel prose. Use when a passage feels too explicit, too obscure, emotionally premature, or uncertain in who is interpreting, and compare subtlety with the clarity the scene actually needs.
+description: Explore subtext, explanation timing, narrative distance, viewpoint ownership, character inference, and intentional ambiguity in fiction or visual-novel prose. Use when a passage feels too explicit, too obscure, emotionally premature, uncertain in who is interpreting, or unsupported in what a character seems to know; compare subtlety with the clarity and epistemic path the scene actually needs.
 ---
 
 # Explore Subtext and Distance
@@ -15,10 +15,13 @@ Useful lines of inquiry include:
 
 - What must an attentive first-time reader understand here, and what may remain available only as a second reading?
 - Is meaning already carried by action, silence, placement, repetition, image, or sound?
+- What perceptual or informational path makes an interpretation available to this character? Does unusual intuition compress that path, or has the text erased it?
 - Does narration certify a character's projection as fact, infer a stable trait from a local action, or complete an understanding before the character has reached it?
 - Is an ambiguity intentional and generative, or does it merely obscure whose thought or judgement is present?
 - Would moving an interpretation later preserve the sentence while improving its timing?
 - What would be gained and lost by keeping, clarifying, anchoring, deferring, or removing it?
+
+A perceptible path need not become an explicit chain of reasoning. A noticed detail, bodily hesitation, mistaken first model, or later correction may supply enough orientation while preserving strangeness.
 
 Offer more than one direction when the choice is genuinely aesthetic, then give a reasoned inclination grounded in the passage and current profile. State the context that could reverse that inclination. When one small clarification plainly resolves the problem, a single direction may be enough.
 
