@@ -1,6 +1,6 @@
 # B-Line Opening: Late Tea and the Orbital Threshold
 
-This is the primary English draft of the first B-line scene after the opening's terminal hard cut. It follows a late-tea discussion in which Xuyuan's external evidence work reaches the question of on-site involvement, then continues through Interface's embodied arrival and their first argument. It currently stops when she asks to show him why she came, before the A-line record opens. Technical and legal background is limited to what the scene presently needs.
+This is the primary English draft of the first B-line scene after the opening's terminal hard cut. It follows a late-tea discussion in which Xuyuan's external evidence work reaches the question of on-site involvement, then continues through Interface's embodied arrival and their first argument. It currently stops at the first image of the A-line record, after Xuyuan consents to receive it as experience. Technical and legal background is limited to what the scene presently needs.
 
 Worldline and continuity checkpoints: [Player First Encounter: Curatorial Hint and the Mission-Intervention Worldline](../presentation/玩家首见线_策展暗示与任务干预世界线.md), [Xuyuan and Interface: Abductive Intuition and the Purpose of Entering a World](../development/主人公与Interface_溯因直觉镜像及进入世界的目的.md), and [Xuyuan: Egalitarianism, Responsibility and Self-Risk](../story_state/主人公_平等主义责任伦理与自我风险.md). The exact preceding text remains in the [near-final opening draft](开幕_流水冷开场_相撞与讲座.md). This scene is in worldline B; the opening's exact worldline affiliation remains `TBD`.
 
@@ -641,3 +641,39 @@ For a few seconds neither of them spoke. The reader kept the time for them.
 **Xuyuan:** That history gives you a reason to ask. It does not give me a reason to agree.
 
 **Unknown:** Then let me show you what made me ask.
+
+**Xuyuan:** What do you mean by show me?
+
+**Unknown:** You will experience the record rather than watch it.
+
+**Xuyuan:** How long?
+
+**Unknown:** Very little time will pass here.
+
+**Xuyuan:** For me.
+
+**Unknown:** Hours. The parts I kept will pass at the rate they were lived. I have not accelerated them.
+
+**Xuyuan:** And when it ends?
+
+**Unknown:** It may take you some time to feel that you are back.
+
+The expiry time remained in one corner of the reader.
+
+The young woman stood and came around the table. Xuyuan stayed in his chair.
+
+She raised one hand. Her index finger stopped before it touched his forehead.
+
+**Unknown:** May I?
+
+Xuyuan looked from her hand to her face.
+
+**Xuyuan:** Show me.
+
+Her fingertip touched the centre of his forehead.
+
+*Cut: Black.*
+
+Xuyuan opened his eyes.
+
+The first thing he saw was her.
