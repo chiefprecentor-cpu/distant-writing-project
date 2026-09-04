@@ -1,6 +1,6 @@
 # B-Line Opening: Late Tea and the Orbital Threshold
 
-This is the primary English draft of the first B-line scene after the opening's terminal hard cut. It follows a late-tea discussion in which Xuyuan's external evidence work reaches the question of on-site involvement, and ends after Yuankai leaves, before Interface appears, with Xuyuan asleep over the review set. Technical and legal background is limited to what the scene presently needs.
+This is the primary English draft of the first B-line scene after the opening's terminal hard cut. It follows a late-tea discussion in which Xuyuan's external evidence work reaches the question of on-site involvement, then continues through Interface's embodied arrival and their first argument. It currently stops when she asks to show him why she came, before the A-line record opens. Technical and legal background is limited to what the scene presently needs.
 
 Worldline and continuity checkpoints: [Player First Encounter: Curatorial Hint and the Mission-Intervention Worldline](../presentation/玩家首见线_策展暗示与任务干预世界线.md), [Xuyuan and Interface: Abductive Intuition and the Purpose of Entering a World](../development/主人公与Interface_溯因直觉镜像及进入世界的目的.md), and [Xuyuan: Egalitarianism, Responsibility and Self-Risk](../story_state/主人公_平等主义责任伦理与自我风险.md). The exact preceding text remains in the [near-final opening draft](开幕_流水冷开场_相撞与讲座.md). This scene is in worldline B; the opening's exact worldline affiliation remains `TBD`.
 
@@ -417,3 +417,227 @@ The document reader remained awake after every other screen in the room had gone
 *Visual: Xuyuan is asleep at the table. Light from the reader falls across his sleeve.*
 
 *Visual: The image holds.*
+
+## The Visitor
+
+*Audio: The door chime sounds once.*
+
+Xuyuan lifted his head.
+
+The reader had not changed. The same recovery estimate remained open beyond his folded arms. He read the time twice, then waited for the chime to sound again.
+
+It did not.
+
+The corridor light came on when he opened the door.
+
+A young woman stood outside in a pale cardigan and a dark pleated skirt. One side of her ash-brown hair had been braided and tied with a black ribbon. For an instant, Xuyuan thought she had the wrong flat.
+
+**Unknown:** He Xuyuan?
+
+**Xuyuan:** Yes. It's after midnight. Are you all right?
+
+**Unknown:** Yes.
+
+Xuyuan waited.
+
+**Xuyuan:** Who are you?
+
+**Unknown:** I am a machine intelligence from the end of time. My civilisation had found no reliable way beyond it. They made me their last resort.
+
+Xuyuan looked past her. The corridor was empty.
+
+There was a shallow ache where his forehead had rested on his sleeve. He pressed it with two fingers. The visitor remained at his door.
+
+**Unknown:** You've read Asimov's *The Last Question*. You know the problem I mean.
+
+**Xuyuan:** I know the story. Why do you know that?
+
+**Unknown:** Because I have read a completed history of your life.
+
+**Xuyuan:** My life isn't complete.
+
+**Unknown:** This one isn't. Yuankai brought you this mission in the completed history too. You accepted it.
+
+**Xuyuan:** Come inside.
+
+He moved aside. It was better than letting her say any more in the corridor.
+
+She crossed the threshold and stopped. Xuyuan closed the door, then touched the corner of the document reader. The orbital diagram disappeared behind its permission screen.
+
+He indicated the chair Yuankai had left empty. She sat. Xuyuan remained at the other end of the table.
+
+**Xuyuan:** Did Yuankai send you?
+
+**Unknown:** No.
+
+**Xuyuan:** Who did?
+
+**Unknown:** No one sent me.
+
+**Xuyuan:** Why?
+
+**Unknown:** To ask you to leave the field handoff blank.
+
+Xuyuan looked at the locked reader.
+
+**Xuyuan:** It is blank.
+
+**Unknown:** I know.
+
+For the moment, an internal leak accounted for everything that mattered.
+
+Xuyuan sat down across from her.
+
+**Xuyuan:** Suppose I take your account as true. What happened after I took the handoff?
+
+**Unknown:** The team reached the centre. The signing core was isolated. You sent enough of its record to Earth to revoke the compromised keys and move the legitimate services. The capsule did not return.
+
+**Xuyuan:** What did the record preserve?
+
+**Unknown:** The links between the policy packages, the signing path and the cases you had already connected. Enough for the investigation to continue.
+
+**Xuyuan:** The root state?
+
+**Unknown:** The most complete copy remained in the capsule.
+
+**Xuyuan:** With me.
+
+**Unknown:** Yes.
+
+**Xuyuan:** Did I die there?
+
+**Unknown:** Yes.
+
+Her eyes were grey-violet. When Xuyuan looked down at the dark reader and back again, her attention was already waiting where he had left it. The effect was slight enough that he tried the movement once more.
+
+**Xuyuan:** Then you have told me the risk is real.
+
+**Unknown:** Yes.
+
+**Xuyuan:** Yuankai's file already did.
+
+**Unknown:** It estimated it.
+
+**Xuyuan:** An estimate is what I have to decide from. The fact that one history ended badly does not make the decision wrong.
+
+**Unknown:** No.
+
+**Xuyuan:** The core was isolated. The record was enough for people on Earth to act. My death doesn't reverse either fact.
+
+**Unknown:** It does not.
+
+**Xuyuan:** Then we agree it isn't a verdict.
+
+**Unknown:** I did not come to give you one.
+
+The permission screen dimmed. The room grew darker around them.
+
+**Unknown:** The fallback can stop the distribution without you.
+
+**Xuyuan:** It can. That isn't all they are going for.
+
+**Unknown:** It isn't.
+
+**Xuyuan:** The fallback preserves what the rules know to ask for. The rules end when the state changes.
+
+**Unknown:** You said that to Yuankai.
+
+**Xuyuan:** In the history you read.
+
+**Unknown:** The wording was the same.
+
+**Xuyuan:** Then you know what comes back to me if I stay here.
+
+**Unknown:** The fallback gives you authenticated extracts, and a sealed image for later review.
+
+**Xuyuan:** Chosen by whom?
+
+**Unknown:** By people with different reasons to seal different parts.
+
+**Xuyuan:** Some of those reasons will be good.
+
+**Unknown:** That is part of the problem.
+
+**Xuyuan:** That won't make the gaps legible from here.
+
+**Unknown:** Less will be preserved.
+
+**Xuyuan:** Less will be possible to establish.
+
+**Unknown:** Not nothing.
+
+**Xuyuan:** No. Not nothing.
+
+She waited for him to continue.
+
+**Xuyuan:** If they come home saying they stopped the system, with a record they chose, we have only changed who asks to be trusted.
+
+**Unknown:** I am not saying the difference is trivial.
+
+**Xuyuan:** You're asking me to treat it as less than a life.
+
+**Unknown:** I am asking whether the life is in the comparison.
+
+Xuyuan glanced at the reader. Its permission screen still showed the expiry time in one corner.
+
+**Unknown:** One page lists what may be lost from the evidence. Another measures how long the capsule can keep someone alive. They do not meet.
+
+**Xuyuan:** Putting them on the same page would not decide it.
+
+**Unknown:** No.
+
+**Xuyuan:** I know I am allowed to stay. That does not tell me whether I should.
+
+**Unknown:** Being the best person available does not tell you that you should go.
+
+**Xuyuan:** No. The difference in the record might.
+
+**Unknown:** Where is its limit?
+
+**Xuyuan:** I won't know before someone sees the live state.
+
+**Unknown:** Then it has no limit before you accept the risk.
+
+**Xuyuan:** There are limits on what I would ask the team to do.
+
+**Unknown:** I am asking about you.
+
+Xuyuan looked towards the personal screen. It had stayed black. The flats his parents were comparing were still there, if he woke it.
+
+**Xuyuan:** If the fact that the risk is mine settles it, I have given myself a reason I would not accept from anyone else.
+
+**Unknown:** Would you ask anyone else to take the handoff?
+
+**Xuyuan:** If they could keep the same relation between the live state and what we already know, yes.
+
+**Unknown:** They cannot.
+
+**Xuyuan:** That is the problem.
+
+**Unknown:** It is also what would be lost.
+
+Xuyuan looked back at her.
+
+**Unknown:** The judgement they want at the centre is the judgement they expect to use after the team comes home. The reason it is difficult to replace now is also a reason not to lose it there.
+
+**Xuyuan:** I don't know what anyone will need me for afterwards.
+
+**Unknown:** You don't know which part of the record they will need afterwards either.
+
+**Xuyuan:** Evidence has no duty to act while it still can.
+
+**Unknown:** You may have duties you cannot take on if you die there.
+
+**Xuyuan:** And if I preserve myself for a more important duty whenever the present one becomes dangerous, I can preserve myself forever.
+
+**Unknown:** The present duty can still be done.
+
+**Xuyuan:** Not with the same evidence.
+
+**Unknown:** No.
+
+For a few seconds neither of them spoke. The reader kept the time for them.
+
+**Xuyuan:** That history gives you a reason to ask. It does not give me a reason to agree.
+
+**Unknown:** Then let me show you what made me ask.
