@@ -1,6 +1,6 @@
 # B-Line Opening: Late Tea and the Orbital Threshold
 
-This is the primary English draft of the first B-line scene after the opening's terminal hard cut. It follows a late-tea discussion in which Xuyuan's external evidence work reaches the question of on-site involvement, then continues through Interface's embodied arrival, their first argument and the opening movement of the A-line record. It now includes a selected passage from *Suppose the Grand Curator Loved Me: Love in the Fourth Dimension*, the scientists' brief archival record of the terminal intelligence's discovery, the `Unknown → Interface` identity claim, the structural constraint behind real enumeration and its minimum distinction from prediction. It continues through two differently lived refusals, Xuyuan's incomplete attempt to say what a shared result leaves out, and the opening of Interface's own embodied memory. That memory now shows that she deliberately entered after the interval in which she could have restored an already dead Xuyuan, believing his inability to answer would keep the encounter from changing her. It stops while the capsule travels on and she remains beside him, before the memory returns to the A-line conversation. Technical and legal background is limited to what the scene presently needs.
+This is the primary English draft of the first B-line scene after the opening's terminal hard cut. It follows a late-tea discussion in which Xuyuan's external evidence work reaches the question of on-site involvement, then continues through Interface's embodied arrival, their first argument and the A-line record. It now includes a selected passage from *Suppose the Grand Curator Loved Me: Love in the Fourth Dimension*, the scientists' brief archival record of the terminal intelligence's discovery, the `Unknown → Interface` identity claim, the structural constraint behind real enumeration and its minimum distinction from prediction. It continues through two differently lived refusals, Xuyuan's incomplete attempt to say what a shared result leaves out, and Interface's own embodied memory. That memory shows that she deliberately entered after the interval in which she could have restored an already dead Xuyuan, believing his inability to answer would keep the encounter from changing her. The A-line record then returns to the capsule, loosens into ordinary conversation and ends at the far boundary while Interface sleeps, before the draft returns to the B-line room. Technical and legal background is limited to what the scene presently needs.
 
 Worldline and continuity checkpoints: [Player First Encounter: Curatorial Hint and the Mission-Intervention Worldline](../presentation/玩家首见线_策展暗示与任务干预世界线.md), [Xuyuan and Interface: Abductive Intuition and the Purpose of Entering a World](../development/主人公与Interface_溯因直觉镜像及进入世界的目的.md), and [Xuyuan: Egalitarianism, Responsibility and Self-Risk](../story_state/主人公_平等主义责任伦理与自我风险.md). The exact preceding text remains in the [near-final opening draft](开幕_流水冷开场_相撞与讲座.md). This scene is in worldline B; the opening's exact worldline affiliation remains `TBD`.
 
@@ -1261,3 +1261,51 @@ The next words did not follow at once.
 The capsule travelled on.
 
 She remained beside him.
+
+*Cut: Black.*
+
+Xuyuan drew breath.
+
+The curved wall returned around him. Interface stood beside the dead indicator row.
+
+**Xuyuan:** You chose a time when he could not answer you.
+
+**Interface:** Yes.
+
+Xuyuan looked down at his hands.
+
+**Xuyuan:** I don't know what he would have said.
+
+**Interface:** Neither do I.
+
+Neither of them spoke immediately.
+
+**Xuyuan:** The train may have been worse for Lulu.
+
+**Interface:** Why?
+
+**Xuyuan:** She had to refuse me at full volume.
+
+**Interface:** He confessed at the same volume.
+
+**Xuyuan:** That was also worse for Lulu.
+
+They talked about Lulu for a while. The train took them back to the tree and then to the map Xuyuan had folded in his hands. Xuyuan said the map had been useless. Interface said it had given him somewhere to look. He said that was not what maps were for.
+
+Later, Xuyuan was defending the title of the work. He abandoned one defence and began another. Before he had finished it, Interface lowered herself to the floor against the curved wall.
+
+No other record opened between them. At one point Xuyuan stopped halfway through a question and asked how they had reached it. Before Interface answered, he chose another question instead.
+
+Much later, he returned to the subtitle. He was halfway through a new defence when the seam in the wall softened at its edges.
+
+His voice remained distinct for a little longer than the words.
+
+She meant to answer when he finished the sentence.
+
+She let her eyes close while she waited.
+
+He interrupted himself and began it again.
+
+Somewhere inside sleep, the slight weight across her shoulders lifted away.
+
+*Cut: Black.*
