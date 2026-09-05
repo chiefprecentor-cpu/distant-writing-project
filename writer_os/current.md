@@ -1,7 +1,7 @@
 # Current Work
 
-- Current focus: 玩家首次稳定进入任务干预世界线 B 的英文 draft 已完整走过 A 线因果奇异点中的约十小时记录：复活与善后、讲台记录、《假设大策展人爱我》节选、终末 AI 出生档案、`Unknown → Interface` 身份认领、最低方法铰链、两次告白拒绝、第一次具身迟到记忆及谈话收束。Interface 在更早线主动选择错过可恢复何须怨的窗口，试图避免一个回答改变自己，却仍被无回应的具身经验改变。记忆返回以后，A 线何须怨只确认她选择了无法回答的时点，并说明自己不能替另一条线的人回答；谈话随后转向 Lulu、车厢、树下地图、作品标题及无预定次序的轻松跑题。末段由第三人称压缩并悄然转为 Interface 的有限感官：她在何须怨仍说话时睡着，不看见他替自己盖上衣物，只在边界回置时感觉肩上重量被提走。现稿停在随后的黑屏，尚未返回 B 线房间。
+- Current focus: 玩家首次稳定进入任务干预世界线 B 的英文 draft 已完整走过 A 线因果奇异点中的约十小时记录，并在新的[B 线回返 draft](creative_work/drafts/B线回返_个人请求与开放未来.md)中开始第三阶段。身体回返现从黑屏后的触感写起：椅背先于房间抵达，Interface 的手指从何须怨额前撤走；他睁眼后短暂看向她的肩膀，再以双脚、几乎未动的 reader expiry time 及仍为空的 field handoff 重新取得 B 线的身体与未完成任务。段落停在 `Interface waited.`，尚未恢复对白。一两百年／近千年的历史差异仍是当前倾向保留的第三阶段材料，但由何须怨询问还是 Interface 主动提出、在身体落地后多快进入，尚未决定。
 
-- Near-term queue: （1）复审 A 线收束中责任确认、Lulu 玩笑、第三人称话题压缩与隐蔽视角转交是否形成同一段自然运动；（2）设计黑屏以后怎样返回 B 线房间，以及 B 线何须怨接收整段 A 线记录后的第一项身体与语言反应；（3）进入第三阶段的预测自失效、Interface 个人请求与何须怨任务决定。
+- Near-term queue: （1）设计 `Interface waited.` 以后由谁先开口，以及第一轮对白怎样从 A 线关系余波返回当前任务；（2）确定一两百年／近千年历史差异的进入时点与载体，再使何须怨形成“被告知以后已不再重复来源历史”的认识；（3）从预测自失效推进到 Interface 的个人请求、跨线关系确认与何须怨继续准备任务的退出状态。
 
-- Resume cue: 先读本文件、`writer_os/AGENTS.md`、`creative_work/drafts/B线开端_晚茶与轨道任务提案.md` 的 `The Visitor` 末段，以及 `creative_work/development/主人公与Interface_溯因直觉镜像及进入世界的目的.md` 中“A 线结尾不总结寓意”与“对话密度与回舱节奏”。准确 draft 停在 `Somewhere inside sleep, the slight weight across her shoulders lifted away.` 后的黑屏。该重量来自何须怨在她睡后盖上的一层衣物，但覆盖动作不由外部镜头展示；边界回置撤销 A 线局部物理变化，触感则沿 `τ` 留在 Interface 的经验中。下一块从返回 B 线开始，不补拍 A 线何须怨再次死亡，也不把他的轻松谈话改成留给 B 线自己的遗命。衣物种类、再次死亡的生理过程、Interface 离开局部具身的严格机制及第一次深潜静坐年数仍为 `TBD`。
+- Resume cue: 先读本文件、`writer_os/AGENTS.md`、`creative_work/drafts/B线回返_个人请求与开放未来.md`，并回看 `creative_work/development/主人公与Interface_溯因直觉镜像及进入世界的目的.md` 中“B 线三阶段辩论的整体结构”与“第三阶段：预测自失效、个人请求与开放未来”。准确 draft 停在 `Interface waited.`。下一轮先决定 B 线何须怨的第一句与历史尺度材料的相对次序，不立即把 `Then the thousand years are not something this decision can buy.` 当成已经获得上下文的台词。一两百年／近千年当前倾向保留；不得把它写成何须怨以生命购买的确定价格，也不得让 A 线何须怨替 B 线作答。
