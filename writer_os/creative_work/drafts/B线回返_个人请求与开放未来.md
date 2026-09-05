@@ -80,7 +80,7 @@ Xuyuan left the two capsule diagrams open beside one another.
 
 Xuyuan looked up at her.
 
-**Xuyuan:** What else did you see more than once?
+**Xuyuan:** Then what else repeated?
 
 Interface did not open another record.
 
