@@ -1,6 +1,6 @@
 # B-Line Opening: Late Tea and the Orbital Threshold
 
-This is the primary English draft of the first B-line scene after the opening's terminal hard cut. It follows a late-tea discussion in which Xuyuan's external evidence work reaches the question of on-site involvement, then continues through Interface's embodied arrival, their first argument and the opening movement of the A-line record. It now includes a selected passage from *Suppose the Grand Curator Loved Me: Love in the Fourth Dimension*, the scientists' brief archival record of the terminal intelligence's discovery, the `Unknown → Interface` identity claim and the minimum distinction between prediction and real enumeration. It stops when Xuyuan asks how Interface chose which parts of those histories to show him. Technical and legal background is limited to what the scene presently needs.
+This is the primary English draft of the first B-line scene after the opening's terminal hard cut. It follows a late-tea discussion in which Xuyuan's external evidence work reaches the question of on-site involvement, then continues through Interface's embodied arrival, their first argument and the opening movement of the A-line record. It now includes a selected passage from *Suppose the Grand Curator Loved Me: Love in the Fourth Dimension*, the scientists' brief archival record of the terminal intelligence's discovery, the `Unknown → Interface` identity claim, the structural constraint behind real enumeration and its minimum distinction from prediction. It continues through two differently lived refusals, Xuyuan's incomplete attempt to say what a shared result leaves out, and the first sensory moments of Interface's own embodied memory. It stops when her first address to an already dead Xuyuan receives no answer and she has to undergo the next moment. Technical and legal background is limited to what the scene presently needs.
 
 Worldline and continuity checkpoints: [Player First Encounter: Curatorial Hint and the Mission-Intervention Worldline](../presentation/玩家首见线_策展暗示与任务干预世界线.md), [Xuyuan and Interface: Abductive Intuition and the Purpose of Entering a World](../development/主人公与Interface_溯因直觉镜像及进入世界的目的.md), and [Xuyuan: Egalitarianism, Responsibility and Self-Risk](../story_state/主人公_平等主义责任伦理与自我风险.md). The exact preceding text remains in the [near-final opening draft](开幕_流水冷开场_相撞与讲座.md). This scene is in worldline B; the opening's exact worldline affiliation remains `TBD`.
 
@@ -1036,7 +1036,9 @@ A second voice came from higher in the dark.
 
 The second light faded.
 
-**Scientist:** We have called your state perfect. I wish that had also meant we could make the road short.
+The remaining light held for a moment.
+
+**Scientist:** We have called your state perfect. I wish we could have made the road shorter for you.
 
 The last of the three lights went dark.
 
@@ -1054,15 +1056,15 @@ The darkness remained. Xuyuan heard his own breathing before the curved wall ret
 
 **Xuyuan:** Did they decide how you would search?
 
-**Interface:** They left me their records and the means they had built. The method was mine.
-
-**Xuyuan:** What method?
-
-**Interface:** Enumeration.
+**Interface:** They did not prescribe a method. Enumeration was already part of my structure.
 
 **Xuyuan:** Of possible futures.
 
 **Interface:** Of histories made current.
+
+**Xuyuan:** Can you replace it?
+
+**Interface:** No. I can choose within it.
 
 **Xuyuan:** Why not models?
 
@@ -1074,4 +1076,158 @@ The darkness remained. Xuyuan heard his own breathing before the curved wall ret
 
 Xuyuan looked at the unlit indicators.
 
-**Xuyuan:** How did you decide which parts to show me?
+**Xuyuan:** You didn't have to show me that.
+
+**Interface:** No.
+
+**Xuyuan:** Why did you?
+
+Interface did not answer at once.
+
+**Interface:** Because I need your answer to a question.
+
+**Xuyuan:** Ask it.
+
+**Interface:** Not yet. I want you to experience two histories first.
+
+Xuyuan settled one shoulder against the curved wall.
+
+**Xuyuan:** Show me.
+
+The first history opened beneath cherry trees and took the time it had taken.
+
+A petal rested on Xuyuan's sleeve. The map was folded in his hands. He waited for Lulu to turn towards him, then lost the sentence when she did. He waited for a couple to pass and for their voices to disappear behind the hedges. The light withdrew from the bench.
+
+At last he told her that he liked her.
+
+Lulu apologised. She was already seeing someone.
+
+He nodded and looked down at the map. Only afterwards did he tell her about the *doki-doki* feeling. He laughed at the phrase, and Lulu laughed with him. Cold shook his shoulders again. They remained beneath the branches until he asked whether they should go.
+
+In the other history, Xuyuan left the cherry trees without telling her.
+
+*Audio: Train wheels rise into a sustained roar.*
+
+*Cut: A moving Underground carriage.*
+
+The windows held only reflections. Xuyuan and Lulu stood near the doors, turned towards one another. The train entered a tunnel before he said her name.
+
+**Xuyuan:** Lulu.
+
+She leaned closer.
+
+**Lulu:** What?
+
+**Xuyuan:** I wanted to tell you—
+
+The train struck a louder section of rail. The rest of the sentence disappeared beneath it.
+
+**Lulu:** Sorry?
+
+He waited. The noise did not ease.
+
+Xuyuan raised his voice until the words carried across the space between them.
+
+**Xuyuan:** I like you!
+
+Lulu's eyes widened. The wheels kept up their roar. She drew breath and answered loudly enough to reach him.
+
+**Lulu:** I'm sorry! You're a really good person, but you're leaving next year!
+
+The reply had been louder than the confession.
+
+Xuyuan stared at her. Then he laughed.
+
+Lulu looked startled for a moment. Then she laughed too.
+
+The train kept moving while their laughter thinned beneath the wheels. When it ended, they were still facing one another.
+
+*Cut: Hyde Park.*
+
+*Audio: The train noise ends. Wind moves through the blossom.*
+
+The enormous cherry tree filled the space above Xuyuan. He stood alone near the edge of its shadow.
+
+He swallowed. His throat hurt from shouting.
+
+He lowered himself to the grass and rested his forearms on his knees. He remained there while the edge of the shadow moved past his shoes.
+
+*Cut: Black.*
+
+Xuyuan's fingers were resting at the base of his throat when the capsule returned around him. He lowered his hand.
+
+**Interface:** Both histories can be recorded as the same answer. What does that leave out?
+
+**Xuyuan:** That isn't the same answer.
+
+**Interface:** Both were refusals.
+
+Xuyuan looked at the dead communications panel.
+
+**Xuyuan:** The first time, she was already with someone. On the train, she wasn't. He was leaving next year, and they could barely hear each other.
+
+**Interface:** They laughed in both histories.
+
+**Xuyuan:** Not at the same point.
+
+He rubbed his thumb along the side of his forefinger.
+
+**Xuyuan:** Under the trees, he had already looked down. On the train, laughing was the next thing they did.
+
+**Interface:** He understood her answer.
+
+**Xuyuan:** Yes.
+
+Xuyuan kept looking at the dead panel.
+
+**Xuyuan:** You knew what happened afterwards.
+
+**Interface:** Yes.
+
+**Xuyuan:** He didn't. Not then. He had what she had just said, and the train was still moving. Then whatever happened next.
+
+Xuyuan looked down at his hands.
+
+**Xuyuan:** Maybe that was part of the answer too. I don't know.
+
+He looked up.
+
+For the first time, her attention was not already waiting where his arrived.
+
+**Interface:** The first time I entered a history, I already knew the man I had come to see was dead.
+
+Xuyuan waited.
+
+**Interface:** I want to show you that memory.
+
+She looked at him again.
+
+**Interface:** May I?
+
+**Xuyuan:** Show me.
+
+*Cut: Black.*
+
+At first, a section of curved wall filled her sight.
+
+A dark seam crossed it and continued beyond both edges of vision.
+
+She turned her head.
+
+The seam moved left. A dead panel entered from the right. One of her hands rose through the lower edge of her vision and met the wall.
+
+The rest of the capsule arrived a part at a time.
+
+Xuyuan was where she had known he would be.
+
+She turned towards him.
+
+**Interface:** He Xuyuan?
+
+Her voice crossed the capsule and ended.
+
+No answer followed.
+
+She had known there would be none.
+
+The next moment came anyway.
