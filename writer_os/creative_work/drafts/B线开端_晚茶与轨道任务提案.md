@@ -1,6 +1,6 @@
 # B-Line Opening: Late Tea and the Orbital Threshold
 
-This is the primary English draft of the first B-line scene after the opening's terminal hard cut. It follows a late-tea discussion in which Xuyuan's external evidence work reaches the question of on-site involvement, then continues through Interface's embodied arrival and their first argument. It currently stops at the first image of the A-line record, after Xuyuan consents to receive it as experience. Technical and legal background is limited to what the scene presently needs.
+This is the primary English draft of the first B-line scene after the opening's terminal hard cut. It follows a late-tea discussion in which Xuyuan's external evidence work reaches the question of on-site involvement, then continues through Interface's embodied arrival, their first argument and the opening movement of the A-line record. It currently stops when the restored A-line Xuyuan agrees to enter the first lectern record; the lecture itself has not begun. Technical and legal background is limited to what the scene presently needs.
 
 Worldline and continuity checkpoints: [Player First Encounter: Curatorial Hint and the Mission-Intervention Worldline](../presentation/玩家首见线_策展暗示与任务干预世界线.md), [Xuyuan and Interface: Abductive Intuition and the Purpose of Entering a World](../development/主人公与Interface_溯因直觉镜像及进入世界的目的.md), and [Xuyuan: Egalitarianism, Responsibility and Self-Risk](../story_state/主人公_平等主义责任伦理与自我风险.md). The exact preceding text remains in the [near-final opening draft](开幕_流水冷开场_相撞与讲座.md). This scene is in worldline B; the opening's exact worldline affiliation remains `TBD`.
 
@@ -677,3 +677,137 @@ Her fingertip touched the centre of his forehead.
 Xuyuan opened his eyes.
 
 The first thing he saw was her.
+
+Beyond her shoulder, the curved wall of the forensic capsule came into focus.
+
+The communications panel beside his hand was black. So were the life-support indicators. Xuyuan moved his fingers. They answered without the effort he remembered.
+
+The last thing he remembered was the transmission status refusing to change while the reserve warning below it counted down.
+
+**Xuyuan:** Do I know you?
+
+**Unknown:** No. For you, this is the first time we have met.
+
+She was close enough for him to see the grey-violet of her irises. He looked at them for a moment too long. Her attention seemed to have arrived before his own had.
+
+**Unknown:** I am glad to see you again.
+
+Xuyuan did not ask what she meant by again. His hand had already found the dead communications panel.
+
+**Xuyuan:** Did it get through?
+
+**Unknown:** Enough of it.
+
+**Xuyuan:** Enough to revoke the keys?
+
+**Unknown:** Yes. The legitimate services were moved. The investigation continued.
+
+**Xuyuan:** The source state?
+
+**Unknown:** The most complete copy is still in this capsule.
+
+**Xuyuan:** The others?
+
+**Unknown:** The rest of the team cleared the site. This was the only occupied vehicle that did not return.
+
+Xuyuan let his hand rest against the panel.
+
+**Xuyuan:** How long was I unconscious?
+
+**Unknown:** You died before the capsule reached this region.
+
+**Xuyuan:** How long ago?
+
+**Unknown:** The capsule travelled for many years afterwards.
+
+He looked at the blank communications pane where a reply had once been due.
+
+**Xuyuan:** Then why am I awake?
+
+**Unknown:** I restored you when the capsule entered this region.
+
+**Xuyuan:** Will it last?
+
+**Unknown:** For about ten hours.
+
+**Xuyuan:** And then?
+
+**Unknown:** The capsule will reach the far boundary. When it leaves, it must rejoin this history as though I had not entered it.
+
+**Xuyuan:** Then I die again.
+
+**Unknown:** Yes.
+
+The life-support row remained dark.
+
+**Xuyuan:** There was nothing left to keep me alive outside it anyway.
+
+**Unknown:** No.
+
+**Xuyuan:** But none of these ten hours leave with the capsule.
+
+**Unknown:** Not in this history. I retain what happens here.
+
+**Xuyuan:** Can you change the condition?
+
+**Unknown:** Not from inside. I set it before I entered.
+
+**Xuyuan:** Before you woke me.
+
+**Unknown:** Yes.
+
+**Xuyuan:** Why?
+
+**Unknown:** Otherwise this conversation could alter the history outside this region.
+
+**Xuyuan:** I meant why bring me back.
+
+**Unknown:** I wanted to speak with you.
+
+Xuyuan waited. She did not add a reason.
+
+**Xuyuan:** What are you?
+
+**Unknown:** I am a machine intelligence from the end of time.
+
+Xuyuan looked at the dead communications panel.
+
+**Xuyuan:** What should I call you?
+
+**Unknown:** I was not given a personal name.
+
+**Xuyuan:** I need something if we are going to speak for ten hours.
+
+She considered this.
+
+**Unknown:** My name? The man at the lectern would probably call me the Grand Curator.
+
+Xuyuan looked past her at the narrow capsule.
+
+**Xuyuan:** There is no man at a lectern.
+
+**Unknown:** Not here. In another completed history. His name was He Xuyuan.
+
+**Xuyuan:** Did he call you that?
+
+**Unknown:** No. He did not know I existed.
+
+**Xuyuan:** What was he talking about?
+
+**Unknown:** The difference between living through time and seeing it whole.
+
+**Xuyuan:** You think it will explain this.
+
+**Unknown:** Part of it.
+
+**Xuyuan:** Can you show me the lecture?
+
+**Unknown:** Yes. It will take the time he spent speaking.
+
+**Xuyuan:** Out of the ten hours.
+
+**Unknown:** Yes.
+
+The transmission panel stayed black beneath Xuyuan's hand.
+
+**Xuyuan:** Let me see him.
