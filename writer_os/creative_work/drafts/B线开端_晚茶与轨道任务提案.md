@@ -1,6 +1,6 @@
 # B-Line Opening: Late Tea and the Orbital Threshold
 
-This is the primary English draft of the first B-line scene after the opening's terminal hard cut. It follows a late-tea discussion in which Xuyuan's external evidence work reaches the question of on-site involvement, then continues through Interface's embodied arrival, their first argument and the opening movement of the A-line record. It currently stops after a selected passage from *Suppose the Grand Curator Loved Me*, when Xuyuan asks what in the unknown visitor's own history made the name fit. The terminal AI's initial record has not yet opened. Technical and legal background is limited to what the scene presently needs.
+This is the primary English draft of the first B-line scene after the opening's terminal hard cut. It follows a late-tea discussion in which Xuyuan's external evidence work reaches the question of on-site involvement, then continues through Interface's embodied arrival, their first argument and the opening movement of the A-line record. It currently stops after a selected passage from *Suppose the Grand Curator Loved Me: Love in the Fourth Dimension*, when Xuyuan asks what the work came close to in the unknown visitor. The terminal AI's initial record has not yet opened. Technical and legal background is limited to what the scene presently needs.
 
 Worldline and continuity checkpoints: [Player First Encounter: Curatorial Hint and the Mission-Intervention Worldline](../presentation/玩家首见线_策展暗示与任务干预世界线.md), [Xuyuan and Interface: Abductive Intuition and the Purpose of Entering a World](../development/主人公与Interface_溯因直觉镜像及进入世界的目的.md), and [Xuyuan: Egalitarianism, Responsibility and Self-Risk](../story_state/主人公_平等主义责任伦理与自我风险.md). The exact preceding text remains in the [near-final opening draft](开幕_流水冷开场_相撞与讲座.md). This scene is in worldline B; the opening's exact worldline affiliation remains `TBD`.
 
@@ -942,35 +942,73 @@ The communications panel remained black. The text did not appear on any surface.
 >
 > *Suppose the Grand Curator Loved Me*
 >
+> *Love in the Fourth Dimension*
+>
 > Selected passage
 
-> Let a subject that lives through events in succession along *t* have time index one. The word *index* is provisional: the number names a relation to time; no arithmetic follows from it.
->
-> It acts, remembers and changes within *t*. In a description containing its whole history, nothing remains to arrive; every motion and pause has a place in a complete, static shape. Static in that description does not mean motionless to the subject.
->
-> Suppose such histories are available as wholes to a second subject. Seeing them does not give it another time. But if it preserves what one discloses, and that knowledge alters a later comparison or choice, its acts fall into a sequence not supplied by any single history. Let that sequence be *τ*, and let a subject that changes through it have time index two.
->
-> An inversion appears. The subject of time index one moves in *t* while its whole course lies still in the higher description. The subject of time index two encounters static histories and changes between encounters. This suggests a parity conjecture. Two indices can show the reversal, but cannot establish a general law; *τ* may not even be time in the same sense as *t*.
->
-> Call a subject occupying that position—preserving, comparing and arranging complete histories—the Grand Curator. *Grand* describes the extent of the collection, not a right over any life in it.
->
-> To name the sequence *τ* is not to explain it. It may be a second temporal coordinate, sufficiently like *t* that the Curator has earlier and later states. Then the Curator's whole course might in turn lie static in a still higher description, and the inversion could repeat.
->
-> Yet the premise says only that one history was read before another and that an earlier comparison may affect a later act. This may be an order of operations with no duration, measure or physical likeness to *t*. Calling both sequences time risks turning precedence into geometry; refusing the word does not remove the precedence.
->
-> The uncertainty passes into the collection. The convenient image is a library: complete histories coexist like books, with *τ* as a route among the shelves. But perhaps at each stage only one history is current. The others may survive as records or traces sufficient for comparison, and perhaps not as worlds at all. The Curator could still read what was preserved, choose, and later find another history complete. Those acts do not settle what became of the rest.
->
-> Nor need the Curator stand outside all that exists. The name places it there too easily. It may be external to every history it handles, or outside each lower history only as a reader is outside a page, while the reading and every change in the reader belong to a larger structure. The function supplies no final exterior.
->
-> The available observations do not distinguish among these accounts. They establish only that one comparison may alter a later one. What kind of reality supports that order remains open.
+Xuyuan read the title, then the line beneath it. At the edge of the pale field, the young woman had lowered her face. She was smiling.
 
-At the section break, the pale field cleared. Xuyuan had slipped lower against the curved wall. He straightened one leg; feeling returned along his calf in a scatter of small pains. The young woman sat at the other side of the capsule, looking in his direction.
+**Xuyuan:** You find it funny.
+
+**Unknown:** The subtitle does not make it less so.
+
+Xuyuan returned to the page.
+
+> Let a subject that lives through events in succession along *t* have time index one. The word *index* is provisional. It names a relation to time; no arithmetic follows from it.
+>
+> A complete four-dimensional history of such a subject may be static in a higher description. Here *static* does not mean a single moment in which nothing moves. The history contains the hand before it is raised, the raising, and the hand at rest again. It contains a question before its answer, and the interval in which an answer has not yet been given. Describing all these events together does not remove the relations among them.
+>
+> If the complete history were only a record, its lines would represent actions performed elsewhere. The stronger supposition is that the history is the subject's whole temporal existence. On that supposition, the raising of the hand is not an image of an action. It is the action, extended through *t*. A higher description need not wait for the hand to rise. The subject does.
+>
+> The subject of time index one therefore changes within *t* although its whole course acquires no new parts in the higher description. An action begins, continues and ends for the subject. Those words still name real relations inside the history; they do not describe the history itself coming into existence for a second clock.
+>
+> Now suppose complete histories are available as wholes to another subject. Merely seeing them does not furnish another time. But if that subject reads one history, preserves what the reading discloses, and reaches a later comparison altered by the earlier one, then its own acts have an order. None of the histories being compared supplies it. Mark this order *τ*, and call a subject that changes through it a subject of time index two.
+>
+> The two indices make an inversion visible. At time index one, motion is lived from within while the whole course lies still in a higher description. At time index two, complete and static histories become the objects among which another succession appears. It is tempting to call this a parity conjecture. Two indices are not enough to make it a law, and *τ* may not be time in the same sense as *t*.
+>
+> Call a subject that preserves, compares and arranges complete histories the Grand Curator.
+>
+> The mark *τ* conceals more than it settles. It might be a second temporal coordinate, sufficiently like *t* that the Curator has earlier and later states. The Curator's whole course could then lie static under a still higher description, and the inversion would recur.
+>
+> Very little of this follows from the original premise. That premise establishes an earlier reading and a later comparison changed by it. The order might have no duration, measure or physical likeness to *t*. It might be only an operational sequence in which reading, retention and revision occur. Calling both orders time risks turning precedence into geometry. Declining to call *τ* time would not make the precedence disappear.
+>
+> The histories themselves remain equally uncertain. The convenient image is a library: every complete history coexists like a volume, and *τ* is a route among the shelves. But there may be no shelves. At each stage of the order, only one history may be current. What preceded it may remain as a record, a trace sufficient for comparison, or something whose continued existence cannot be inferred from the trace. Under either account, the Curator could read what had been preserved and later encounter another history as complete. The operation alone does not say what became of the first.
+>
+> Even the word *curator* imports a position the premise has not supplied. It quietly places the subject outside the collection. Perhaps the Curator is external to every history it handles. Perhaps it is outside each lower history only as a reader is outside a page, while the reading and every alteration of the reader belong to a larger structure. There is no reason here to assume that the sequence of such structures ends in an absolute outside.
+>
+> These accounts cannot be distinguished by the observations admitted so far. They begin from one comparison altering a later one. What kind of reality permits that alteration remains open.
+
+At the section break, the pale field cleared. Xuyuan had slipped lower against the curved wall. He straightened one leg; feeling returned along his calf in a scatter of small pains. At the edge of his sight, the pale sleeve of her cardigan remained beside the dead indicator row.
 
 The next paragraph arrived before the sensation had passed.
 
-> What remains unchanged is a different limit. Suppose no event through which a person loved is missing from a complete history. The Curator may know every word and hesitation, and the circumstances of each answer or refusal. But if the Curator was absent from that history, none of those answers was addressed to it.
+> The title asks a structure to do something.
 >
-> A refusal preserved without loss remains a refusal formed under the conditions of that history. It does not become a refusal of the Curator. An answer to a question the Curator has never asked is not there at all. For such an answer to occur, the Curator must enter the conditions under which the person responds. The person must encounter it as something present, not merely persist as a life held whole.
+> *To love* can name both a state and an activity. A loving disposition is not suspended whenever the person sleeps or attends to something else. It becomes legible, however, through the shape it gives to action: attention returns to one person, and an earlier encounter weighs on a later choice.
+>
+> If love is in any part an activity, it requires direction and some order of difference. No single movement of a hand need be loving. Still, remove every distinction between what precedes and what follows, and the word *act* loses its ordinary use. A perfectly motionless instant might resemble one instant from an act of love. It cannot contain the act's extension.
+>
+> This does not exclude the complete history described above. Its stillness belongs to the higher description, while its actions retain their extension in *t*. A person of time index one can wait for another, reconsider, and act. When the whole life is seen as a static shape, the activity has not been replaced by its portrait. It is part of the shape because it occurred as activity within the life.
+>
+> A Grand Curator whose own mode of life were static in the stronger sense—without any internal earlier or later—would present a different problem. What could it mean for such a subject to perform an act of love? There could be no earlier encounter that altered a later choice, and no moment at which an act was directed because of what had happened before. The Curator might contain an arrangement resembling an act, or hold the complete description of an act performed by someone else. The verb *perform* would have nowhere to take place.
+>
+> But the Curator was introduced through verbs. It preserves, compares and arranges. If an earlier reading changes a later comparison, those verbs form the Curator's own sequence in *τ*. The Curator is static only relative to some description that might contain that sequence whole. Within the sequence, the verb *perform* has somewhere to take place.
+>
+> This removes one impossibility and no more. A catalogue can be revised after a volume is added; succession is not affection. The first alteration produced by a history might be correction. If the Curator returns to that history after no fact in it remains unread, or if the history continues to alter choices made elsewhere, correction becomes a less complete description. The return might still be method or fixation. Love remains another possible name. Nothing about *τ* chooses among them.
+>
+> There is a second ambiguity in the word *contain*. Suppose a person loved through a succession of acts in *t*. The complete history lacks none of them. If that history is the person's whole temporal existence, rather than a description standing in for it, then the love that occurred is no less present in the history than any other action. The higher stillness does not cancel it.
+>
+> The Curator, in turn, has that history available as a whole. To call this another case of *containment* uses the same word for a different relation. An inscription can contain the words of a promise without promising anything. The comparison is imperfect, because a complete history was not introduced as an inscription. Still, having the history available does not transfer the person's acts to the Curator. The history may contain a person's love while the Curator holds the history.
+>
+> Even *give rise* changes its force between the two descriptions. Within *t*, one encounter can alter a later act; causes precede what they cause, and love may arise in that order. In the higher description, the cause and what follows it are both present in the complete shape. If causation consists in the relation between them, the structure can include love arising without itself acquiring a new part. If arising requires novelty relative to the subject for whom the question is asked, then the relevant arising belongs to *t*, or perhaps to *τ*, and not to the static description.
+>
+> Even if the Curator can change in *τ* and that change deserves the name love, another difficulty remains. The person whose history produced the change seems to be its object. Yet the Curator knows that person only as the complete history made available to it. It may know the conditions of every answer and refusal in the person's life. But if the Curator is absent from the history, none of those answers is an answer to the Curator.
+>
+> This absence does not by itself disprove love. Love can be unreturned. It can be unknown to the person loved, or continue when an answer is impossible. Requiring a favourable response would confuse love with success, and requiring any response at all would exclude too much of what people have called love.
+>
+> The absence matters in another way. If the library image is right, the Curator's object may be a real and complete person whose life never includes the Curator. If only records remain, the Curator immediately encounters a trace instead. Even then, the object of love need not be identical with the medium through which it is known. Human beings love absent people through memory and testimony. The ontology changes the problem without settling it.
+>
+> If the Curator stood before the person, a new fact would become possible. The person could receive an act as coming from the Curator and could respond to it, even with refusal. Such an encounter might establish a relation that complete knowledge alone cannot supply. It would not decide whether the Curator had loved before the encounter, or whether love that never entered such a relation had been directed at the person or at the person's complete shape.
 >
 > Can a complete, static structure give rise to love?
 >
@@ -982,24 +1020,12 @@ No further paragraph appeared. The pale field withdrew, leaving Xuyuan's hand on
 
 His calf had stopped prickling. Xuyuan lowered his leg and turned towards the young woman.
 
-**Xuyuan:** He invented a position.
+**Xuyuan:** He invented a position. He didn't name you.
 
-**Unknown:** Yes.
+**Unknown:** He could not.
 
-**Xuyuan:** He didn't name you.
-
-**Unknown:** No.
-
-**Xuyuan:** But you chose it as your name.
+**Xuyuan:** But you recognised yourself in it.
 
 **Unknown:** It was the closest name he had made.
 
-**Xuyuan:** Closest to what?
-
-**Unknown:** To my own history.
-
-**Xuyuan:** His work doesn't tell me that history.
-
-**Unknown:** No.
-
-**Xuyuan:** Then show me what made the name fit.
+**Xuyuan:** What did the work get close to?
