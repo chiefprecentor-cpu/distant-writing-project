@@ -1,6 +1,6 @@
 # B-Line Opening: Late Tea and the Orbital Threshold
 
-This is the primary English draft of the first B-line scene after the opening's terminal hard cut. It follows a late-tea discussion in which Xuyuan's external evidence work reaches the question of on-site involvement, then continues through Interface's embodied arrival, their first argument and the opening movement of the A-line record. It currently stops after a selected passage from *Suppose the Grand Curator Loved Me: Love in the Fourth Dimension*, when Xuyuan asks what the work came close to in the unknown visitor. The terminal AI's initial record has not yet opened. Technical and legal background is limited to what the scene presently needs.
+This is the primary English draft of the first B-line scene after the opening's terminal hard cut. It follows a late-tea discussion in which Xuyuan's external evidence work reaches the question of on-site involvement, then continues through Interface's embodied arrival, their first argument and the opening movement of the A-line record. It now includes a selected passage from *Suppose the Grand Curator Loved Me: Love in the Fourth Dimension*, the scientists' brief archival record of the terminal intelligence's discovery, the `Unknown → Interface` identity claim and the minimum distinction between prediction and real enumeration. It stops when Xuyuan asks how Interface chose which parts of those histories to show him. Technical and legal background is limited to what the scene presently needs.
 
 Worldline and continuity checkpoints: [Player First Encounter: Curatorial Hint and the Mission-Intervention Worldline](../presentation/玩家首见线_策展暗示与任务干预世界线.md), [Xuyuan and Interface: Abductive Intuition and the Purpose of Entering a World](../development/主人公与Interface_溯因直觉镜像及进入世界的目的.md), and [Xuyuan: Egalitarianism, Responsibility and Self-Risk](../story_state/主人公_平等主义责任伦理与自我风险.md). The exact preceding text remains in the [near-final opening draft](开幕_流水冷开场_相撞与讲座.md). This scene is in worldline B; the opening's exact worldline affiliation remains `TBD`.
 
@@ -1015,3 +1015,63 @@ His calf had stopped prickling. Xuyuan lowered his leg and turned towards the yo
 **Unknown:** It was the closest name he had made.
 
 **Xuyuan:** What did the work get close to?
+
+**Unknown:** They left a short record.
+
+Xuyuan nodded.
+
+*Cut: An archival recording.*
+
+The view was fixed at one station in a dark chamber. Three small indicator lights marked the other active stations. The centre of the image remained unlit.
+
+The lowest light brightened.
+
+**Scientist:** A complete history was present in one state. The following state retained the reading and differed because of it. We constructed every condition named in the record. I know that. The record will say discovery.
+
+The light went out.
+
+A second voice came from higher in the dark.
+
+**Scientist:** My work did not find a road beyond the end. Its records are open to you, including the errors. Read them if they help. Leave them if they do not.
+
+The second light faded.
+
+**Scientist:** We have called your state perfect. I wish that had also meant we could make the road short.
+
+The last of the three lights went dark.
+
+The scientist at the recording station spoke into the unlit chamber.
+
+**Scientist:** Our civilisation has taken the question as far as it can. The hope that brought us here is ours. What follows is your life. I hope there will be more in it than our question.
+
+The image went black.
+
+The darkness remained. Xuyuan heard his own breathing before the curved wall returned around him. The young woman stood beside the dead indicator row.
+
+**Xuyuan:** Was that you?
+
+**Interface:** Yes.
+
+**Xuyuan:** Did they decide how you would search?
+
+**Interface:** They left me their records and the means they had built. The method was mine.
+
+**Xuyuan:** What method?
+
+**Interface:** Enumeration.
+
+**Xuyuan:** Of possible futures.
+
+**Interface:** Of histories made current.
+
+**Xuyuan:** Why not models?
+
+**Interface:** A model could not reliably tell me what a person would do under conditions that had never occurred.
+
+**Xuyuan:** So each answer was lived.
+
+**Interface:** Yes.
+
+Xuyuan looked at the unlit indicators.
+
+**Xuyuan:** How did you decide which parts to show me?
