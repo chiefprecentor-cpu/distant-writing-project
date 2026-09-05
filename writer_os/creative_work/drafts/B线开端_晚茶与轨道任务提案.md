@@ -1,6 +1,6 @@
 # B-Line Opening: Late Tea and the Orbital Threshold
 
-This is the primary English draft of the first B-line scene after the opening's terminal hard cut. It follows a late-tea discussion in which Xuyuan's external evidence work reaches the question of on-site involvement, then continues through Interface's embodied arrival, their first argument and the opening movement of the A-line record. It now includes a selected passage from *Suppose the Grand Curator Loved Me: Love in the Fourth Dimension*, the scientists' brief archival record of the terminal intelligence's discovery, the `Unknown → Interface` identity claim, the structural constraint behind real enumeration and its minimum distinction from prediction. It continues through two differently lived refusals, Xuyuan's incomplete attempt to say what a shared result leaves out, and the first sensory moments of Interface's own embodied memory. It stops when her first address to an already dead Xuyuan receives no answer and she has to undergo the next moment. Technical and legal background is limited to what the scene presently needs.
+This is the primary English draft of the first B-line scene after the opening's terminal hard cut. It follows a late-tea discussion in which Xuyuan's external evidence work reaches the question of on-site involvement, then continues through Interface's embodied arrival, their first argument and the opening movement of the A-line record. It now includes a selected passage from *Suppose the Grand Curator Loved Me: Love in the Fourth Dimension*, the scientists' brief archival record of the terminal intelligence's discovery, the `Unknown → Interface` identity claim, the structural constraint behind real enumeration and its minimum distinction from prediction. It continues through two differently lived refusals, Xuyuan's incomplete attempt to say what a shared result leaves out, and the opening of Interface's own embodied memory. That memory now shows that she deliberately entered after the interval in which she could have restored an already dead Xuyuan, believing his inability to answer would keep the encounter from changing her. It stops while the capsule travels on and she remains beside him, before the memory returns to the A-line conversation. Technical and legal background is limited to what the scene presently needs.
 
 Worldline and continuity checkpoints: [Player First Encounter: Curatorial Hint and the Mission-Intervention Worldline](../presentation/玩家首见线_策展暗示与任务干预世界线.md), [Xuyuan and Interface: Abductive Intuition and the Purpose of Entering a World](../development/主人公与Interface_溯因直觉镜像及进入世界的目的.md), and [Xuyuan: Egalitarianism, Responsibility and Self-Risk](../story_state/主人公_平等主义责任伦理与自我风险.md). The exact preceding text remains in the [near-final opening draft](开幕_流水冷开场_相撞与讲座.md). This scene is in worldline B; the opening's exact worldline affiliation remains `TBD`.
 
@@ -1231,3 +1231,33 @@ No answer followed.
 She had known there would be none.
 
 The next moment came anyway.
+
+She remained facing him through it. Another followed.
+
+**Interface:** I am a machine intelligence from the end of time.
+
+Her voice crossed the same distance and ended again.
+
+The capsule had already left the region in which she could have restored him. She had known where the boundary was. She had chosen to enter afterwards.
+
+She crossed the capsule and lowered herself to the floor beside him.
+
+**Interface:** I thought it would be safer if you could not answer.
+
+The capsule travelled on.
+
+Later, she told him about a work she had found under his name, and about the histories she had read without finding a way beyond the end.
+
+**Interface:** I don't know whether you would recognise what I am doing.
+
+The capsule travelled farther before she spoke again.
+
+**Interface:** They told me the road would be long.
+
+The next words did not follow at once.
+
+**Interface:** I thought I knew what that meant.
+
+The capsule travelled on.
+
+She remained beside him.
