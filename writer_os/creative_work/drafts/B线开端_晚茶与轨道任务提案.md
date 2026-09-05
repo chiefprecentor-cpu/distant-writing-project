@@ -82,7 +82,7 @@ It accounted for every ordinary release. The disputed packages appeared nowhere 
 
 Xuyuan returned to the footage.
 
-No one in orbit had steered the loading robot into the lane. It had found the path locally. What came down from orbit was a smaller thing: permission to prefer keeping time.
+No one in orbit had steered the loading robot into the lane. It had found the path locally. What came down from orbit was a smaller thing: permission to prefer staying on schedule.
 
 He moved between the cases. Nothing in their labels admitted kinship. What held them together was the timing: each policy disappeared after people adjusted something around it.
 
@@ -828,39 +828,41 @@ The white point completed another circuit.
 
 **Lecturer:** Now let the plane stand for one three-dimensional section of a world, and the spiral for that world's extension through time. We cannot put either on a screen, so the drawing will have to lie for us.
 
-The image changed. Only one dimension of space remained on the screen; time ran vertically beside it. Successive positions of a point appeared across the grid, close enough together to form a line.
+**Lecturer:** For the moment, reduce a person to a point.
 
-**Lecturer:** Reduce a person to a point for the moment. Keep every position instead of erasing it when the next one appears. What we describe in three-dimensional space as motion is represented in spacetime by a line: a worldline.
+The image changed. Only one dimension of space remained on the screen; time ran vertically beside it. A point crossed the grid, leaving a line behind it.
+
+The lecturer stopped the animation.
+
+**Lecturer:** This has the explanation backwards.
+
+The point disappeared. The whole line remained.
+
+**Lecturer:** It makes the point look primary and the line like its residue. On an ordinary spacetime diagram, that may not matter. The line can record where the point was without claiming to be the thing itself.
+
+**Lecturer:** For the model I want you to consider, read it the other way round. The line is not a record left behind by the point. The line is the point's whole existence in time. Each three-dimensional section contains one point of it. From inside the structure, those points are experienced in order. Their succession is what we call motion.
 
 He looked back at the line on the screen.
 
-**Lecturer:** A worm, if you prefer the image. A body would make it thicker. Nothing I am saying here depends on its width.
-
-The line remained after the moving point had disappeared.
-
-**Lecturer:** So far, this is only a way to represent events. It does not tell us whether the future is fixed. It does not even tell us whether the line is anything more than a record drawn after the motion.
-
-**Lecturer:** I am going to add the stronger claim openly. Take the line itself as one complete history. No part of it is absent merely because a person at an earlier point calls it the future.
+**Lecturer:** Physicists call the whole line the point's worldline. I prefer the less tidy image: a worm. Give the person a body again, and the worm acquires thickness.
 
 Someone shifted in the row behind Xuyuan. The writing tablet moved slightly under his arm.
 
-**Lecturer:** Complete is not the same as completed. Completed means there was a time at which something finished. There is no second clock in this model against which the four-dimensional history finishes. Complete means that the structure lacks no temporal part.
+**Lecturer:** When I call this history complete, I do not mean that it finished while another clock kept running. There is no other clock in this model. I mean that none of its moments is missing from the structure.
 
 On the screen, a second line appeared beside the first, then a third. They separated after the same bright point.
 
-**Lecturer:** And I will add another claim. Let the history be deterministic. Given its physical state and its laws, only one continuation belongs to it.
+**Lecturer:** I also need determinism, and the picture cannot give it to me. Given the physical state and the laws, only one continuation belongs to the history.
+
+**Lecturer:** Those other lines can describe possibilities we considered. They are not additional futures inside this history.
 
 The two fainter lines vanished.
 
-**Lecturer:** The future does not wait as several pale lines until a decision makes one of them dark.
-
-He let the single line remain on the screen.
-
-**Lecturer:** This does not make deliberation decorative. A reason noticed, a reason missed, the hesitation and the act are events in the history. If they explain what follows, determinism has not removed the decision. It has refused to place the decision outside the account.
+**Lecturer:** A person inside it can still be uncertain, notice one reason and miss another, hesitate, and act. All of that belongs to the line and may explain what follows.
 
 The lecturer took a drink of water. No one in the room spoke while he set the glass down.
 
-**Lecturer:** You heard the beginning of that sentence before its end. Nothing in a four-dimensional description requires you to hear it all at once. The order in which a person remembers, anticipates and acts belongs to the structure too.
+**Lecturer:** You heard the beginning of that sentence before its end. A complete structure does not mean that a person inside it experiences everything at once. Remembering in one direction and anticipating in the other belong to the structure too.
 
 The screen returned to Hinton's spiral. This time the pale plane was gone.
 
@@ -868,53 +870,41 @@ The screen returned to Hinton's spiral. This time the pale plane was gone.
 
 He stepped aside, leaving the stationary shape unobstructed.
 
-**Lecturer:** The diagram contains no such eye. A complete history is not the same thing as a readable history. The moving plane was our way of displaying one section after another. It is not another object travelling through the model.
+**Lecturer:** Nothing in the geometry supplies that eye. A complete history may still have no reader. I made the plane move so that the sections could appear one after another on the screen. There is no plane travelling through the history.
 
 The spiral disappeared. A thin white line remained for a moment on the black screen.
 
-**Lecturer:** We have described a history that is lived in sequence and, under the stronger claim, exists as one determined structure. We have not described what it would mean to see it whole.
+**Lecturer:** What it would take to see the history whole is another question. Nothing on this screen answers it.
 
 The line went out.
 
 The black screen filled Xuyuan's sight. When it drew back, his hand was resting on the dead communications panel.
 
-The capsule had not changed. The numbness in his fingers had. He drew his hand back and flexed it. The young woman was where he had last seen her.
+His fingers had gone numb against the panel. He pulled his hand away and rubbed his fingertips with his thumb. The young woman was where he had last seen her.
 
 For a moment, the ventilation he had heard in the auditorium continued in the sealed capsule. Then there was only the faint sound of his own breathing.
 
-**Xuyuan:** He said complete, not completed.
-
-**Unknown:** Yes.
-
-**Xuyuan:** You said completed.
-
-**Unknown:** Yes.
-
-**Xuyuan:** Had you read this history before you entered here?
-
-**Unknown:** No. I had read the completed history immediately before it.
-
-**Xuyuan:** That before is not in the time he was describing.
+**Xuyuan:** When you woke me, did you already know what we would say?
 
 **Unknown:** No.
+
+**Xuyuan:** Then what did you know?
+
+**Unknown:** I had read a neighbouring history. This conversation did not happen there.
 
 Xuyuan looked at the black panel under his hand.
 
-**Xuyuan:** These ten hours were not in what you read.
-
-**Unknown:** No.
-
-**Xuyuan:** But you will retain them.
+**Xuyuan:** So these hours are new to you.
 
 **Unknown:** Yes.
 
-**Xuyuan:** Outside this region, this history keeps the same result. You keep what happens inside it.
+**Xuyuan:** But you will retain them when the capsule leaves.
 
 **Unknown:** Yes.
 
-**Xuyuan:** Is that division necessary every time you enter a history?
+**Xuyuan:** Did you have to keep the history outside this region unchanged in order to speak to me?
 
-**Unknown:** No. I chose it for this entry.
+**Unknown:** No. I chose that condition for this encounter.
 
 The dead life-support indicators had not changed while he was away. Neither had the dark pane that had once been waiting for a reply from Earth.
 
