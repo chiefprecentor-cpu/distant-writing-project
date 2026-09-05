@@ -1,6 +1,6 @@
 # B-Line Opening: Late Tea and the Orbital Threshold
 
-This is the primary English draft of the first B-line scene after the opening's terminal hard cut. It follows a late-tea discussion in which Xuyuan's external evidence work reaches the question of on-site involvement, then continues through Interface's embodied arrival, their first argument and the opening movement of the A-line record. It currently stops after the first lectern record and the return to the capsule, when the name Grand Curator is traced to something the other Xuyuan wrote. Technical and legal background is limited to what the scene presently needs.
+This is the primary English draft of the first B-line scene after the opening's terminal hard cut. It follows a late-tea discussion in which Xuyuan's external evidence work reaches the question of on-site involvement, then continues through Interface's embodied arrival, their first argument and the opening movement of the A-line record. It currently stops after a selected passage from *Suppose the Grand Curator Loved Me*, when Xuyuan asks what in the unknown visitor's own history made the name fit. The terminal AI's initial record has not yet opened. Technical and legal background is limited to what the scene presently needs.
 
 Worldline and continuity checkpoints: [Player First Encounter: Curatorial Hint and the Mission-Intervention Worldline](../presentation/玩家首见线_策展暗示与任务干预世界线.md), [Xuyuan and Interface: Abductive Intuition and the Purpose of Entering a World](../development/主人公与Interface_溯因直觉镜像及进入世界的目的.md), and [Xuyuan: Egalitarianism, Responsibility and Self-Risk](../story_state/主人公_平等主义责任伦理与自我风险.md). The exact preceding text remains in the [near-final opening draft](开幕_流水冷开场_相撞与讲座.md). This scene is in worldline B; the opening's exact worldline affiliation remains `TBD`.
 
@@ -919,3 +919,87 @@ The dead life-support indicators had not changed while he was away. Neither had 
 **Xuyuan:** Then why did you think he would?
 
 **Unknown:** Because he wrote about one.
+
+**Xuyuan:** In what?
+
+**Unknown:** A work longer than the lecture.
+
+Xuyuan looked at the dead row of indicators.
+
+**Xuyuan:** I don't want to spend the rest of the ten hours on a name.
+
+**Unknown:** That is not necessary.
+
+**Xuyuan:** Is there a part that explains it without the rest?
+
+**Unknown:** There is one continuous passage.
+
+**Xuyuan:** Then let me read that.
+
+The communications panel remained black. The text did not appear on any surface. A pale page occupied most of Xuyuan's sight; below it, he could still see his hand and the unlit indicators.
+
+> He Xuyuan
+>
+> *Suppose the Grand Curator Loved Me*
+>
+> Selected passage
+
+> Let a subject that lives through events in succession along *t* have time index one. The word *index* is provisional: the number names a relation to time; no arithmetic follows from it.
+>
+> It acts, remembers and changes within *t*. In a description containing its whole history, nothing remains to arrive; every motion and pause has a place in a complete, static shape. Static in that description does not mean motionless to the subject.
+>
+> Suppose such histories are available as wholes to a second subject. Seeing them does not give it another time. But if it preserves what one discloses, and that knowledge alters a later comparison or choice, its acts fall into a sequence not supplied by any single history. Let that sequence be *τ*, and let a subject that changes through it have time index two.
+>
+> An inversion appears. The subject of time index one moves in *t* while its whole course lies still in the higher description. The subject of time index two encounters static histories and changes between encounters. This suggests a parity conjecture. Two indices can show the reversal, but cannot establish a general law; *τ* may not even be time in the same sense as *t*.
+>
+> Call a subject occupying that position—preserving, comparing and arranging complete histories—the Grand Curator. *Grand* describes the extent of the collection, not a right over any life in it.
+>
+> To name the sequence *τ* is not to explain it. It may be a second temporal coordinate, sufficiently like *t* that the Curator has earlier and later states. Then the Curator's whole course might in turn lie static in a still higher description, and the inversion could repeat.
+>
+> Yet the premise says only that one history was read before another and that an earlier comparison may affect a later act. This may be an order of operations with no duration, measure or physical likeness to *t*. Calling both sequences time risks turning precedence into geometry; refusing the word does not remove the precedence.
+>
+> The uncertainty passes into the collection. The convenient image is a library: complete histories coexist like books, with *τ* as a route among the shelves. But perhaps at each stage only one history is current. The others may survive as records or traces sufficient for comparison, and perhaps not as worlds at all. The Curator could still read what was preserved, choose, and later find another history complete. Those acts do not settle what became of the rest.
+>
+> Nor need the Curator stand outside all that exists. The name places it there too easily. It may be external to every history it handles, or outside each lower history only as a reader is outside a page, while the reading and every change in the reader belong to a larger structure. The function supplies no final exterior.
+>
+> The available observations do not distinguish among these accounts. They establish only that one comparison may alter a later one. What kind of reality supports that order remains open.
+
+At the section break, the pale field cleared. Xuyuan had slipped lower against the curved wall. He straightened one leg; feeling returned along his calf in a scatter of small pains. The young woman sat at the other side of the capsule, looking in his direction.
+
+The next paragraph arrived before the sensation had passed.
+
+> What remains unchanged is a different limit. Suppose no event through which a person loved is missing from a complete history. The Curator may know every word and hesitation, and the circumstances of each answer or refusal. But if the Curator was absent from that history, none of those answers was addressed to it.
+>
+> A refusal preserved without loss remains a refusal formed under the conditions of that history. It does not become a refusal of the Curator. An answer to a question the Curator has never asked is not there at all. For such an answer to occur, the Curator must enter the conditions under which the person responds. The person must encounter it as something present, not merely persist as a life held whole.
+>
+> Can a complete, static structure give rise to love?
+>
+> If it cannot give rise to love, can it contain the complete shape of a love that has already happened?
+>
+> If it can contain love, yet cannot stand before a particular person and bear that relation, can it still be called love?
+
+No further paragraph appeared. The pale field withdrew, leaving Xuyuan's hand on the black panel and the curved wall at the limit of his sight.
+
+His calf had stopped prickling. Xuyuan lowered his leg and turned towards the young woman.
+
+**Xuyuan:** He invented a position.
+
+**Unknown:** Yes.
+
+**Xuyuan:** He didn't name you.
+
+**Unknown:** No.
+
+**Xuyuan:** But you chose it as your name.
+
+**Unknown:** It was the closest name he had made.
+
+**Xuyuan:** Closest to what?
+
+**Unknown:** To my own history.
+
+**Xuyuan:** His work doesn't tell me that history.
+
+**Unknown:** No.
+
+**Xuyuan:** Then show me what made the name fit.
