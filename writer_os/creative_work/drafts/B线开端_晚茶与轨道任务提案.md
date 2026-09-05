@@ -1,6 +1,6 @@
 # B-Line Opening: Late Tea and the Orbital Threshold
 
-This is the primary English draft of the first B-line scene after the opening's terminal hard cut. It follows a late-tea discussion in which Xuyuan's external evidence work reaches the question of on-site involvement, then continues through Interface's embodied arrival, their first argument and the opening movement of the A-line record. It currently stops when the restored A-line Xuyuan agrees to enter the first lectern record; the lecture itself has not begun. Technical and legal background is limited to what the scene presently needs.
+This is the primary English draft of the first B-line scene after the opening's terminal hard cut. It follows a late-tea discussion in which Xuyuan's external evidence work reaches the question of on-site involvement, then continues through Interface's embodied arrival, their first argument and the opening movement of the A-line record. It currently stops after the first lectern record and the return to the capsule, when the name Grand Curator is traced to something the other Xuyuan wrote. Technical and legal background is limited to what the scene presently needs.
 
 Worldline and continuity checkpoints: [Player First Encounter: Curatorial Hint and the Mission-Intervention Worldline](../presentation/玩家首见线_策展暗示与任务干预世界线.md), [Xuyuan and Interface: Abductive Intuition and the Purpose of Entering a World](../development/主人公与Interface_溯因直觉镜像及进入世界的目的.md), and [Xuyuan: Egalitarianism, Responsibility and Self-Risk](../story_state/主人公_平等主义责任伦理与自我风险.md). The exact preceding text remains in the [near-final opening draft](开幕_流水冷开场_相撞与讲座.md). This scene is in worldline B; the opening's exact worldline affiliation remains `TBD`.
 
@@ -811,3 +811,121 @@ Xuyuan looked past her at the narrow capsule.
 The transmission panel stayed black beneath Xuyuan's hand.
 
 **Xuyuan:** Let me see him.
+
+*Cut: An auditorium.*
+
+The edge of a narrow writing tablet pressed against Xuyuan's forearm. At the front of the room, a man stood beside a lectern. Xuyuan recognised his own face before the rest of the room had settled into focus.
+
+On the screen behind the man, a dark wire spiral stood motionless. A pale plane moved upwards through it. Where the two met, a white point travelled around a circle.
+
+**Lecturer:** The spiral is stationary. The plane is moving. Someone confined to the plane would see a point going round in a circle.
+
+The plane cleared the top of the spiral, returned to the bottom and began again.
+
+**Lecturer:** Charles Hinton used this image to ask whether a succession of appearances might be sections of a permanent higher-dimensional form. His fourth dimension was spatial. I am borrowing the picture, not his physics.
+
+The white point completed another circuit.
+
+**Lecturer:** Now let the plane stand for one three-dimensional section of a world, and the spiral for that world's extension through time. We cannot put either on a screen, so the drawing will have to lie for us.
+
+The image changed. Only one dimension of space remained on the screen; time ran vertically beside it. Successive positions of a point appeared across the grid, close enough together to form a line.
+
+**Lecturer:** Reduce a person to a point for the moment. Keep every position instead of erasing it when the next one appears. What we describe in three-dimensional space as motion is represented in spacetime by a line: a worldline.
+
+He looked back at the line on the screen.
+
+**Lecturer:** A worm, if you prefer the image. A body would make it thicker. Nothing I am saying here depends on its width.
+
+The line remained after the moving point had disappeared.
+
+**Lecturer:** So far, this is only a way to represent events. It does not tell us whether the future is fixed. It does not even tell us whether the line is anything more than a record drawn after the motion.
+
+**Lecturer:** I am going to add the stronger claim openly. Take the line itself as one complete history. No part of it is absent merely because a person at an earlier point calls it the future.
+
+Someone shifted in the row behind Xuyuan. The writing tablet moved slightly under his arm.
+
+**Lecturer:** Complete is not the same as completed. Completed means there was a time at which something finished. There is no second clock in this model against which the four-dimensional history finishes. Complete means that the structure lacks no temporal part.
+
+On the screen, a second line appeared beside the first, then a third. They separated after the same bright point.
+
+**Lecturer:** And I will add another claim. Let the history be deterministic. Given its physical state and its laws, only one continuation belongs to it.
+
+The two fainter lines vanished.
+
+**Lecturer:** The future does not wait as several pale lines until a decision makes one of them dark.
+
+He let the single line remain on the screen.
+
+**Lecturer:** This does not make deliberation decorative. A reason noticed, a reason missed, the hesitation and the act are events in the history. If they explain what follows, determinism has not removed the decision. It has refused to place the decision outside the account.
+
+The lecturer took a drink of water. No one in the room spoke while he set the glass down.
+
+**Lecturer:** You heard the beginning of that sentence before its end. Nothing in a four-dimensional description requires you to hear it all at once. The order in which a person remembers, anticipates and acts belongs to the structure too.
+
+The screen returned to Hinton's spiral. This time the pale plane was gone.
+
+**Lecturer:** There is one last temptation in the diagram. Because we can see the whole spiral, we imagine an eye to which the whole history is visible.
+
+He stepped aside, leaving the stationary shape unobstructed.
+
+**Lecturer:** The diagram contains no such eye. A complete history is not the same thing as a readable history. The moving plane was our way of displaying one section after another. It is not another object travelling through the model.
+
+The spiral disappeared. A thin white line remained for a moment on the black screen.
+
+**Lecturer:** We have described a history that is lived in sequence and, under the stronger claim, exists as one determined structure. We have not described what it would mean to see it whole.
+
+The line went out.
+
+The black screen filled Xuyuan's sight. When it drew back, his hand was resting on the dead communications panel.
+
+The capsule had not changed. The numbness in his fingers had. He drew his hand back and flexed it. The young woman was where he had last seen her.
+
+For a moment, the ventilation he had heard in the auditorium continued in the sealed capsule. Then there was only the faint sound of his own breathing.
+
+**Xuyuan:** He said complete, not completed.
+
+**Unknown:** Yes.
+
+**Xuyuan:** You said completed.
+
+**Unknown:** Yes.
+
+**Xuyuan:** Had you read this history before you entered here?
+
+**Unknown:** No. I had read the completed history immediately before it.
+
+**Xuyuan:** That before is not in the time he was describing.
+
+**Unknown:** No.
+
+Xuyuan looked at the black panel under his hand.
+
+**Xuyuan:** These ten hours were not in what you read.
+
+**Unknown:** No.
+
+**Xuyuan:** But you will retain them.
+
+**Unknown:** Yes.
+
+**Xuyuan:** Outside this region, this history keeps the same result. You keep what happens inside it.
+
+**Unknown:** Yes.
+
+**Xuyuan:** Is that division necessary every time you enter a history?
+
+**Unknown:** No. I chose it for this entry.
+
+The dead life-support indicators had not changed while he was away. Neither had the dark pane that had once been waiting for a reply from Earth.
+
+**Xuyuan:** The man at the lectern never called you the Grand Curator.
+
+**Unknown:** No.
+
+**Xuyuan:** He never used the name.
+
+**Unknown:** Not in the lecture.
+
+**Xuyuan:** Then why did you think he would?
+
+**Unknown:** Because he wrote about one.
