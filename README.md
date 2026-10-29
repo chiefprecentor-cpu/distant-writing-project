@@ -1,82 +1,147 @@
-# AI-Assisted Distant Writing Artefact
+# Writer OS: A Human-in-the-Loop AI Writing Workflow
 
-This repository is the born-digital artefact for a project-based dissertation on AI-assisted distant writing and authorial agency.
+**Generative AI · Workflow Design · Human–AI Collaboration**
 
-The artefact is not a finished playable visual novel build. It is an author-facing production archive: a Writer OS, a first-pass English visual-novel script, supporting story-state and development files, local writing skills, Git history, and selected de-identified agency-audit evidence. It documents how a branching-oriented speculative visual novel was produced through AI-assisted distant writing.
+The challenge of long-running AI-assisted writing is not simply generating more text. It is maintaining continuity, recovering decisions after interruptions, comparing alternatives, and judging whether fluent output serves the intended creative purpose.
 
-## Version
+**Writer OS** is a local-first, Markdown-first authoring workflow I designed and used while producing a branching-oriented speculative visual novel. It combines persistent story context, candidate management, version control, and human-supervised AI collaboration to support complex creative work.
 
-- Branch: `main`
-- Core creative first-draft checkpoint: `db5325a`
-- Core creative checkpoint date: 2026-09-06 01:18:34 +0100
-- Core creative checkpoint message: `Final Draft`
-- Tracked files at that checkpoint: 84
-- Writer OS Markdown files: 73
-- Primary English draft word count: approximately 17,430 words across the three files in `writer_os/creative_work/drafts/`
+The project began as the born-digital artefact for a project-based dissertation on AI-assisted distant writing and authorial agency. Following the initial development and first-draft milestone, I am revisiting the workflow as a staged research and development project, with cross-model literary robustness as the next priority.
 
-This repository guide and the public agency evidence files were added as submission packaging after the core creative first-draft checkpoint. The hosted repository or submitted archive should be treated as the stable submission version.
+## Academic Origin and Attribution
 
-## Research Framing
+This repository contains the born-digital artefact developed as part of my project-based dissertation for the MA in Big Data in Culture & Society at King's College London.
 
-The dissertation treats this repository as a distant-writing artefact. Following Luciano Floridi's account of distant writing, the human author is understood less as a sentence-by-sentence producer and more as a designer or meta-author who specifies requirements, constraints and affordances, delegates parts of textual production to AI, then refines, validates, verifies, curates and assembles the generated material.
+Using an analytic autoethnographic approach, the dissertation examines how creative and cognitive agency are negotiated between me, as the author-researcher, and AI systems during long-form literary production. It investigates how creative decisions, problem construction, and authorial control are distributed and renegotiated throughout the process of AI-assisted writing.
 
-In this project, that distant-writing role is made visible through the repository structure. The author used AI assistance to generate and revise prose, but also to manage context, recover earlier decisions, compare candidates, route material into story state, and inspect semantic drift. The dissertation analyses how creative and cognitive agency moved across those activities.
+The theoretical framing draws on Luciano Floridi's account of distant writing, which examines the changing role of the human author in AI-assisted literary production.
 
-The intended work was originally branching-oriented. The submitted artefact does not contain a completed branching implementation. Instead, the branching ambition functions as a production pressure: it shaped decisions about worldlines, canon, hidden or visible events, open futures, closure, continuity and whether a locally attractive passage should be retained or withdrawn. The first-pass script follows one primary line, while the surrounding Writer OS files preserve the wider branching-oriented design work.
+**References**
 
-## What To Inspect
+- Anderson, L. (2006). [Analytic Autoethnography](https://doi.org/10.1177/0891241605280449). *Journal of Contemporary Ethnography*, 35(4), 373–395.
+- Floridi, L. (2025). [Distant Writing: Literary Production in the Age of Artificial Intelligence](https://doi.org/10.1007/s11023-025-09732-1). *Minds and Machines*.
 
-Start with the Writer OS overview:
+The repository's commit history includes the author label **Anonymous Candidate Contributor**, which was used to comply with the dissertation's anonymous-assessment requirements.
 
-- `writer_os/README.md` explains the author-facing system.
-- `writer_os/current.md` records the final first-pass completion state.
-- `writer_os/docs/project_brief.md` explains the purpose and non-goals of the Writer OS.
-- `writer_os/docs/operating_principles.md` records the working principles behind authority, uncertainty, candidates, summaries and evidence.
+## Project Overview
 
-The main creative output is in:
+- **Problem:** Maintaining narrative continuity, creative control, and manageable review effort during long-running AI-assisted writing.
+- **Approach:** A file-based authoring environment built around Markdown, Git, focused context loading, and explicit human confirmation.
+- **My contribution:** Problem framing, workflow architecture, creative direction, AI-assisted drafting, output review, and iterative refinement of operating rules.
+- **Initial milestone:** A first-pass English narrative draft of approximately 17,430 words, supported by 73 Writer OS Markdown files at the core creative checkpoint on 6 September 2026.
+- **Current direction:** A staged R&D cycle focused on cross-model differences in literary style, output quality, and authorial control.
 
-- `writer_os/creative_work/drafts/`
+Writer OS is a working authoring workflow and research artefact. The repository documents the system's development and use rather than a deployed writing application or a completed playable branching game.
 
-This folder contains the three primary English first-pass draft files. Together they form the submitted narrative draft.
+## 1. The Problem
 
-Supporting production material is in:
+During production, several connected workflow challenges emerged:
 
-- `writer_os/creative_work/story_state/` for confirmed continuity and worldline commitments.
-- `writer_os/creative_work/development/` for active narrative development and design reasoning.
-- `writer_os/creative_work/presentation/` for player-facing staging, visibility and presentation decisions.
-- `writer_os/candidates/` for retained but inactive alternatives.
-- `writer_os/agent_views/` for derived navigation aids.
+- **Context recovery:** Resuming work after long sessions or interruptions without rereading the entire project.
+- **Continuity management:** Distinguishing confirmed story facts, worldline-specific truths, developing ideas, and player-facing presentation decisions.
+- **Candidate exploration:** Preserving useful alternatives without allowing every generated idea to become part of the active working context.
+- **Authorial control:** Allowing AI to contribute substantial reasoning and drafting while keeping consequential creative decisions under human control.
+- **Review effort:** Preventing fluent but flawed proposals, excessive planning, and unnecessary context retrieval from creating additional work for the author.
 
-Selected evidence for the dissertation argument is in:
+These challenges emerged through using the workflow on a real creative project. The current design is based on a single author's experience; broader demand and effectiveness remain to be validated.
 
-- `agency_evidence/`
+## 2. Workflow Design
 
-This folder contains public English translations of selected agency-audit records. Use `agency_evidence/records/index.md` first, then the record-level files in `agency_evidence/records/`. It does not contain raw transcripts, absolute local paths with private usernames, or private working material not needed by readers.
+Writer OS externalises selected creative work and persistent context in a portable, version-controlled workspace. The AI assists with drafting, comparison, review, and navigation, while the author retains responsibility for creative intent, selection, confirmation, and the final reader-facing text.
 
-## Suggested Reading Route
+| Design challenge | Workflow decision | Rationale and trade-off |
+|---|---|---|
+| Resuming after interruptions | Use a lightweight `current.md` with the current focus and resume cue. | Reduces the effort of recovering context while requiring occasional maintenance. |
+| Maintaining continuity | Separate `development/`, `presentation/`, `story_state/`, and `drafts/` by responsibility. | Makes different kinds of creative decisions easier to distinguish without imposing a rigid production pipeline. |
+| Exploring alternatives | Store retained candidates in `candidates/`, inactive by default. | Preserves creative options without automatically committing them to the active narrative. |
+| Navigating a large project | Use rebuildable, source-linked summaries in `agent_views/`. | Improves retrieval while keeping primary material authoritative. |
+| Protecting consequential decisions | Separate discussion from implementation and require explicit human confirmation for authoritative story decisions. | Preserves decision ownership and makes the workflow easier to inspect. |
+| Managing system complexity | Begin with Markdown and Git rather than a database, fixed schema, or automation layer. | Keeps the environment portable and inspectable, while leaving some work manual. |
 
-For a quick review of the artefact, read in this order:
+The workflow is designed to support iterative creative work rather than force every task through a predetermined sequence.
 
-1. `README.md`
-2. `writer_os/README.md`
-3. `writer_os/current.md`
-4. the three files in `writer_os/creative_work/drafts/`
-5. `agency_evidence/records/index.md`
+## 3. Workflow Execution
 
-For a deeper review of the author-facing production system, add:
+The working process combines structured context management with flexible creative collaboration.
 
-1. `writer_os/docs/project_brief.md`
-2. `writer_os/docs/operating_principles.md`
-3. selected files from `writer_os/creative_work/story_state/`, `writer_os/creative_work/development/` and `writer_os/creative_work/presentation/`
+1. **Frame the problem.** Recover the current focus and load the minimum relevant context, source material, and confirmed decisions.
+2. **Explore a bounded question.** Develop one coherent step, compare meaningful alternatives when useful, and preserve unresolved questions when further reasoning is needed.
+3. **Negotiate the next decision.** Keep consequential choices visible so that the author can redirect the problem before the agent develops it too far.
+4. **Implement with authorisation.** Keep suggestions separate from file changes and route confirmed material to the appropriate location.
+5. **Review and preserve.** Examine causal logic, continuity, literary execution, and intended reader experience, then maintain recoverable records through Git and source-linked materials.
 
-## Language And Anonymisation
+The central design objective is to reduce clerical and context-management work while preserving human judgement over creative decisions.
 
-The first-pass narrative draft is in English. Many working files use Chinese, because Chinese was the author's fastest language for high-level creative direction and for supervising AI-assisted drafting. Chinese file names and working notes are retained as part of the authentic production archive.
+## 4. Iteration: From Failure Modes to System Rules
 
-The public-facing guide and agency evidence are in English. The evidence has been translated and de-identified for examination. Public record-level versions are included in `agency_evidence/records/`; private originals and raw traces are not included in this repository.
+Selected agency-audit records document how the workflow evolved through actual writing sessions.
 
-The repository is intended to be inspected as a versioned production artefact, not as a complete software application or a public release build.
-## English Repository Snapshot
+One recurring issue was that a fluent, highly structured plan could still contain an incorrect causal connection between narrative histories. In a documented session, the author identified the problem and redirected the reasoning before the proposed connection was incorporated into the draft.
 
-For reader convenience, `english_repository_snapshot/` contains an English mirror of the repository text files. The main repository files remain the authoritative project materials; the snapshot preserves original folder and file names so cross-references remain traceable.
+Another issue was the tendency of an AI agent to respond to uncertainty by reading more material or developing a plan too far ahead. This could increase review effort without producing a proportionate improvement in the work.
 
+These observations informed persistent operating rules for the workspace and its agents. The rules emphasise bounded steps, manageable review effort, visible decision points, explicit distinctions between proposals and confirmed state, and authorisation before implementation.
+
+This iteration took place at the workflow level, rather than solely through prompt rewriting. Selected public audit records preserve evidence of how these rules were negotiated, revised, and applied.
+
+## 5. Initial Deliverables and Project Status
+
+The core creative checkpoint on 6 September 2026 recorded the completion of the first-pass English narrative draft.
+
+The repository contains:
+
+- Approximately **17,430 words** across three primary English draft files.
+- **73 Writer OS Markdown files** at the core creative checkpoint.
+- Separate materials for narrative development, presentation, story state, drafts, candidates, and navigation.
+- **11 selected English agency-audit records**, translated and de-identified for public inspection.
+- Git history supporting recovery, comparison, and examination of changes.
+
+The branching ambition influenced decisions about continuity, worldlines, visibility, and open futures. The initial narrative draft followed a primary line, while the surrounding materials preserved broader branching-oriented design work.
+
+The September milestone records completion of the first pass. It serves as a historical checkpoint for the initial development phase, while the current R&D direction focuses on evaluating and improving the workflow further.
+
+## 6. Next R&D Priority: Cross-Model Literary Robustness
+
+The next priority is to evaluate how Writer OS performs across different large language models.
+
+Different models have distinct default phrasing habits, stylistic tendencies, and patterns of exposition. In literary production, these tendencies can affect narrative voice, character differentiation, subtext, pacing, and the texture of the prose, even when the creative brief and story context remain consistent.
+
+A controlled comparative study would give different models the same source context, creative brief, and bounded drafting task, then evaluate their outputs against a consistent set of criteria.
+
+The main dimensions would be:
+
+- **Voice fidelity:** Does the prose preserve the intended narrative voice and character-specific expression?
+- **Stylistic originality:** Does the output rely on generic phrasing, predictable constructions, or recognisable model-specific habits?
+- **Literary execution:** Does it preserve subtext, pacing, emotional subtlety, and the intended reader experience?
+- **Narrative integrity:** Does it respect established continuity, causal relationships, and confirmed story constraints?
+- **Revision burden:** How much editing, rewriting, or rejection is required before the output meets the author's standards?
+
+Where practical, the study would use multiple matched writing tasks, repeated samples, and model-blinded initial reviews. This would help distinguish persistent model tendencies from variation between individual generations.
+
+The results could inform several workflow decisions:
+
+1. Whether model-specific writing instructions or skills are needed.
+2. Which models are better suited to ideation, drafting, revision, or review.
+3. Which recurring stylistic problems can be addressed through workflow design and which require direct editorial intervention.
+4. How to balance model capability, literary quality, and the author's review effort.
+
+The aim is to determine whether the workflow can accommodate different models while preserving literary intent and authorial control.
+
+This cross-model evaluation is planned work. The current repository documents the initial workflow and its use; it does not yet contain completed comparative results.
+
+## 7. Explore the Repository
+
+For a focused review:
+
+1. [Writer OS overview](writer_os/README.md) — the system structure and working vocabulary.
+2. [Project brief](writer_os/docs/project_brief.md) — the design position, intended use, scope, and non-goals.
+3. [Operating principles](writer_os/docs/operating_principles.md) — authority, uncertainty, candidate handling, and review principles.
+4. [Primary English drafts](writer_os/creative_work/drafts/) — the narrative output.
+5. [Agency-audit index](agency_evidence/records/index.md) — selected public evidence records.
+6. [Harness revision audit](agency_evidence/records/record-07_harness-revision-and-agency-rules.en-full.md) and [first-draft completion audit](agency_evidence/records/record-11_ten-hour-dialogue-closure-and-first-draft-completion.en-full.md) — examples of rule revision, author review, and completion decisions.
+
+## Scope and Limitations
+
+Writer OS is a file-based authoring workflow rather than a production software application. The repository does not include a front end, a Ren'Py bridge, or a completed playable branching build.
+
+The public agency-audit records are selected English translations of reviewed evidence, not the private raw trace archive. The initial development documents a single-author workflow, and the next stage of R&D will investigate its behaviour across models before drawing broader conclusions about its effectiveness.
